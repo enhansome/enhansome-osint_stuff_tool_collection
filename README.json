@@ -1,7 +1,5015 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python Overpy",
+              "description": "Old (but it's still working) and simple command line #python tool for access Overpass Turbo API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28007455,
+                "language": "Python",
+                "last_commit": "2026-08-17T18:51:00Z",
+                "owner": "DinoTools",
+                "repo": "python-overpy",
+                "stars": 265
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeoWiFi",
+              "description": "Search WiFi geolocation data by BSSID and SSID on different public databases (Wigle, Apple, OpenWifi, API Mylnikov).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455991056,
+                "language": "Python",
+                "last_commit": "2024-12-21T13:06:08Z",
+                "owner": "GONZOsint",
+                "repo": "geowifi",
+                "stars": 1493
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Communications, Internet, Technologies"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open Source Munitions Portal",
+              "description": "Archive of verified images from conflict zones. Search by munition category, condition, characteristics, shapem, mechanical features, wall (thickness)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737028347,
+                "language": "Python",
+                "last_commit": "2026-08-14T11:58:21Z",
+                "owner": "eremit4",
+                "repo": "favihunter",
+                "stars": 255
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Military tracking"
+        }
+      ],
+      "title": "Most important categories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stweet",
+              "description": "Opensource Python library for scraping tweets (by user, by hashtag, by keyword). NO LOGIN OR API KEY REQUIRED.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313412628,
+                "language": "Python",
+                "last_commit": "2023-07-25T21:01:08Z",
+                "owner": "markowanga",
+                "repo": "stweet",
+                "stars": 622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eight Dollars",
+              "description": "Browser extension that shows who really is a verified #Twitter user and who paid $8 for verification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 564141286,
+                "language": "JavaScript",
+                "last_commit": "2024-05-25T08:51:54Z",
+                "owner": "wseagar",
+                "repo": "eight-dollars",
+                "stars": 1183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twitter Archive Parser",
+              "description": "In case your Twitter account is blocked, it's usefull to open settings and download account data. This tool extracts the most important info about tweets from archive and formats it in an easy-to-read way.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 564058707,
+                "language": "Python",
+                "last_commit": "2022-11-29T00:41:20Z",
+                "owner": "timhutton",
+                "repo": "twitter-archive-parser",
+                "stars": 2438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TWEEDS",
+              "description": "A very easy-to-use Python library that allows you to collect all of a user's tweets into a CSV/JSON file. Also it's possible to collect tweets by hashtag or geolocation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 576628123,
+                "language": "Python",
+                "last_commit": "2023-04-26T06:46:30Z",
+                "owner": "jois-code",
+                "repo": "tweeds",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twitter Control Panel",
+              "description": "A cross-browser extension that allows you to have maximum control over your Twitter feed: Hide retweets, quote tweets, who to follow etc; Reduce \"engagement\"; Hide UI items; Remove algoritmic content",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198357530,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T02:00:30Z",
+                "owner": "insin",
+                "repo": "control-panel-for-twitter",
+                "stars": 2607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tweet Machine",
+              "description": "Simple #bash script which retrieves links to the deleted (and other) tweets and replies of any Twitter user from WayBackMachine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453983760,
+                "language": "Shell",
+                "last_commit": "2024-02-21T07:54:27Z",
+                "owner": "0xcyberpj",
+                "repo": "tweet-machine",
+                "stars": 274
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Twitter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YouTube Comment Downloader",
+              "description": "easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41689220,
+                "language": "Python",
+                "last_commit": "2026-07-30T09:02:36Z",
+                "owner": "egbertbouman",
+                "repo": "youtube-comment-downloader",
+                "stars": 1247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ytcs",
+              "description": "google chrome extension to search YouTube comments without leaving the site (link to source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254175200,
+                "language": "JavaScript",
+                "last_commit": "2025-01-14T16:29:06Z",
+                "owner": "lettapp",
+                "repo": "ytcs",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube Transcript API",
+              "description": "Get the transcript/subtitles for a given #YouTube video (by ID from adress bar). It also works for automatically generated subtitles and supports translating subtitles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130369089,
+                "language": "Python",
+                "last_commit": "2026-05-19T18:17:07Z",
+                "owner": "jdepoix",
+                "repo": "youtube-transcript-api",
+                "stars": 8104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube channel archiver",
+              "description": "Tool for automation downloading video, thumbnails and comments text from target YouTube channel (or channels).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125883928,
+                "language": "Shell",
+                "last_commit": "2025-10-03T19:24:58Z",
+                "owner": "dmn001",
+                "repo": "youtube_channel_archiver",
+                "stars": 512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube Screen Capture",
+              "description": "allows you to download a stream in pieces and then merge them",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 309908972,
+                "language": "Python",
+                "last_commit": "2021-10-01T17:08:17Z",
+                "owner": "mrwnwttk",
+                "repo": "youtube_stream_capture",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YouTube_Tool",
+              "description": "#Python library for: - extracting subtitles by video ID or link (in different languages); - list all the video's contained in playlist; - list all video's from a channel; - get info about video by ID; - proxy support; and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267970208,
+                "language": "Python",
+                "last_commit": "2022-03-06T18:35:28Z",
+                "owner": "nlitsme",
+                "repo": "youtube_tool",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "YouTube"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TikTok Scraper",
+              "description": "scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216998956,
+                "language": "TypeScript",
+                "last_commit": "2023-05-19T05:56:45Z",
+                "owner": "drawrowfly",
+                "repo": "tiktok-scraper",
+                "stars": 5171
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TikTok"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prot1ntelligence",
+              "description": "Validate ProtonMail email address, Gather info about ProtonMail user email or PGP Key, Search on the dark web target digital footprints, Check IP to belong to ProtonVPN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501807920,
+                "language": "Python",
+                "last_commit": "2023-08-23T00:28:40Z",
+                "owner": "C3n7ral051nt4g3ncy",
+                "repo": "Prot1ntelligence",
+                "stars": 187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protonmail"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Facebook Friend List Scraper",
+              "description": "Scrape names and usernames from large friend lists on Facebook, without being rate limited\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430327577,
+                "language": "Python",
+                "last_commit": "2022-12-15T15:51:31Z",
+                "owner": "n0kovo",
+                "repo": "fb_friend_list_scraper",
+                "stars": 331
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Facebook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CrossLinked",
+              "description": "LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187035044,
+                "language": "Python",
+                "last_commit": "2024-11-26T12:52:16Z",
+                "owner": "m8sec",
+                "repo": "CrossLinked",
+                "stars": 1580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linkedin Datahub",
+              "description": "linkedIn's generalized metadata search & discovery tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46398090,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:46:22Z",
+                "owner": "datahub-project",
+                "repo": "datahub",
+                "stars": 12573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linkedin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XingDumper",
+              "description": "The Xing job and networking service has almost 20 million users! Here is a simple script that allows you to get a list of employees registered there for a particular company.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 427522869,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:58:59Z",
+                "owner": "l4rm4nd",
+                "repo": "XingDumper",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Xing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reddit User Extractor",
+              "description": "#python script that allows you to get a complete list of comments by user name on Reddit in CSV format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478272862,
+                "language": "Python",
+                "last_commit": "2022-04-23T19:17:27Z",
+                "owner": "mylk",
+                "repo": "reddit-user-extractor",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reddit Post Scraping Tool",
+              "description": "Simple #python script for scraping post from #Reddit (by keywords and subreddit name)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 508390176,
+                "language": "Visual Basic .NET",
+                "last_commit": "2023-12-22T13:31:11Z",
+                "owner": "bellingcat",
+                "repo": "reddit-post-scraping-tool",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reddit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Twitch Recover",
+              "description": "Twitch VOD tool which recovers all VODs including those that are sub only or deleted.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316626766,
+                "language": "Java",
+                "last_commit": "2024-07-12T17:50:12Z",
+                "owner": "TwitchRecover",
+                "repo": "TwitchRecover",
+                "stars": 1179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Twitch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spotify downloader",
+              "description": "download spotify playlist in mp3 from YouTube",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62743585,
+                "language": "Python",
+                "last_commit": "2026-08-12T04:08:03Z",
+                "owner": "spotDL",
+                "repo": "spotify-downloader",
+                "stars": 25891
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spotify"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MASTO",
+              "description": "Masto searches for the users Mastodon by name and collects information about them (profile creation date, number of subscribers and subscriptions, bio, avatar link and more).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562663750,
+                "language": "Python",
+                "last_commit": "2025-04-21T07:24:49Z",
+                "owner": "C3n7ral051nt4g3ncy",
+                "repo": "Masto",
+                "stars": 270
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trunk",
+              "description": "200+ thematic lists of accounts in Mastodon. Python, JavaScript, Vim, Ruby, Privacy, Linux... There are even nudists and Tarot. The Pytrunk tool can be used to automatically following this lists https://github.com/lots-of-things/pytrunk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253854100,
+                "language": "Python",
+                "last_commit": "2023-07-14T18:30:04Z",
+                "owner": "lots-of-things",
+                "repo": "pytrunk",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mastodon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YaSeeker",
+              "description": "Get information about http://Yandex.ru account by login",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334454114,
+                "language": "Python",
+                "last_commit": "2026-07-14T11:12:40Z",
+                "owner": "HowToFind-bot",
+                "repo": "YaSeeker",
+                "stars": 223
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Yandex"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instagram Location Search",
+              "description": "Get the names and links to all the locations on Instagram tied to specific geographic coordinates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319929007,
+                "language": "Python",
+                "last_commit": "2024-04-09T12:12:09Z",
+                "owner": "bellingcat",
+                "repo": "instagram-location-search",
+                "stars": 716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terra",
+              "description": "Collect information about twitter and Instagram accounts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 364460268,
+                "language": "Python",
+                "last_commit": "2025-10-14T08:11:57Z",
+                "owner": "xadhrit",
+                "repo": "terra",
+                "stars": 461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sterraxcyl",
+              "description": "Tool for export to excel someone's #Instagram followers and/or following with details (Username, FullName, Bio, Followers and Following count, etc)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 411310634,
+                "language": "Python",
+                "last_commit": "2024-06-21T05:49:24Z",
+                "owner": "novitae",
+                "repo": "sterraxcyl",
+                "stars": 682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tenai",
+              "description": "Simple tool that uncover some followers of a private #Instagram account",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 474984793,
+                "language": "Python",
+                "last_commit": "2022-08-04T12:30:05Z",
+                "owner": "novitae",
+                "repo": "Tenai",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "INSTALOADER",
+              "description": "Allows to download Instagram posts, photos, stories, comments, geolocation tags and more from #instagram",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61200117,
+                "language": "Python",
+                "last_commit": "2026-07-26T09:19:23Z",
+                "owner": "instaloader",
+                "repo": "instaloader",
+                "stars": 13218
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Instagram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GHunt",
+              "description": "google account investigation tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300592907,
+                "language": "Python",
+                "last_commit": "2026-04-10T02:29:16Z",
+                "owner": "mxrch",
+                "repo": "GHunt",
+                "stars": 19407
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Google"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github Trending Archives",
+              "description": "Github trending archive for a specific date.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130826273,
+                "language": "JavaScript",
+                "last_commit": "2023-01-07T19:44:42Z",
+                "owner": "willin",
+                "repo": "github-trending",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gitcolombo",
+              "description": "simple and fast tool that collects information (edit statistics and contacts) about repository contributors on Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244056053,
+                "language": "Python",
+                "last_commit": "2026-05-29T21:26:02Z",
+                "owner": "soxoj",
+                "repo": "gitcolombo",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zen",
+              "description": "Tool for gathering emails of #Github users",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153084655,
+                "language": "Python",
+                "last_commit": "2019-05-05T15:49:59Z",
+                "owner": "s0md3v",
+                "repo": "Zen",
+                "stars": 599
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSGINT",
+              "description": "A simple #python tool to collect information about a Github user. It can be used to gather: all available emails avatar_url twitter_username number of followers/following date of profile creation and last update and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527215876,
+                "language": "Python",
+                "last_commit": "2025-04-06T09:54:05Z",
+                "owner": "hippiiee",
+                "repo": "osgint",
+                "stars": 560
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gitSome",
+              "description": "A tool for gathering information from #Github: - extract all emails from commits of a particular user (top of the pic); - gathering info about repository (with forks); - search info by domain name",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565957704,
+                "language": "Python",
+                "last_commit": "2025-08-26T14:45:50Z",
+                "owner": "chm0dx",
+                "repo": "gitSome",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Github"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WikiStalk : Analyze Wikipedia User's Activity",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349746732,
+                "language": "Python",
+                "last_commit": "2025-06-23T10:26:17Z",
+                "owner": "altilunium",
+                "repo": "wistalk",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WIKIT",
+              "description": "A tool for searching and reading #Wikipedia articles from the #CLI. The main benefit of it is fewer distractions from work. You don't have to open browser (with Facebook, YouTube and other time eaters) to find out about something.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100090322,
+                "language": "JavaScript",
+                "last_commit": "2026-04-02T06:21:31Z",
+                "owner": "KorySchneider",
+                "repo": "wikit",
+                "stars": 291
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wikipedia"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Steam Osint Tool",
+              "description": "Enter the link to the user's Steam profile to get a list of his or her closed \"friends\" and a list of his or her public comments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469017624,
+                "language": "Python",
+                "last_commit": "2026-08-22T21:20:26Z",
+                "owner": "matiash26",
+                "repo": "steam-osint",
+                "stars": 97
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Steam"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MineSight",
+              "description": "Minecraft #osint tool. By nickname, it checks the presence of users on different servers and collects information about them (date of registration, links to social networks, history of nickname changes, etc.).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577063210,
+                "language": "Python",
+                "last_commit": "2023-08-27T16:46:38Z",
+                "owner": "Gobutsu",
+                "repo": "MineSight",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Minecraft"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Oh365UserFinder",
+              "description": "A simple tool that shows if an #Office365 account is tied to a specific email address. It's possible to check an entire list of emails from a text file at once.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428839779,
+                "language": "Python",
+                "last_commit": "2026-01-28T18:18:40Z",
+                "owner": "dievus",
+                "repo": "Oh365UserFinder",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "o365chk",
+              "description": "simple #Python script to check if there is an #Office365 instance linked to a particular domain and gathering information about this instance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357183160,
+                "language": "Python",
+                "last_commit": "2021-12-11T12:37:25Z",
+                "owner": "nixintel",
+                "repo": "o365chk",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Office365"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Onedrive Enumeration Tool",
+              "description": "A tool that checks the existence of OneDrive accounts with certain usernames (from the users.txt file) in the domain of a certain company.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173910443,
+                "language": "Python",
+                "last_commit": "2025-07-29T06:33:57Z",
+                "owner": "nyxgeek",
+                "repo": "onedrive_user_enum",
+                "stars": 764
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OneDrive"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "duolingOSINT",
+              "description": "The language learning platform Duolingo has more than 570 million+ users worldwide. This tool collects information about Duolingo users by nickname or email.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626038353,
+                "language": "Python",
+                "last_commit": "2023-08-15T09:06:34Z",
+                "owner": "ajuelosemmanuel",
+                "repo": "duolingOSINT",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Duolingo"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gallery-dl",
+              "description": "Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25129800,
+                "language": "Python",
+                "last_commit": "2026-08-01T09:53:37Z",
+                "owner": "mikf",
+                "repo": "gallery-dl",
+                "stars": 19302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chat-downloader",
+              "description": "download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282085598,
+                "language": "Python",
+                "last_commit": "2025-11-05T21:22:30Z",
+                "owner": "xenova",
+                "repo": "chat-downloader",
+                "stars": 1188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SNScrape",
+              "description": "Tool for search posts and gathering information about users in Twitter, Reddit, Vkontakte, Weibo, Telegram, Facebook, Instagram, Telegram and Mastodon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148062266,
+                "language": "Python",
+                "last_commit": "2023-11-15T00:21:52Z",
+                "owner": "JustAnotherArchivist",
+                "repo": "snscrape",
+                "stars": 5444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RUBY",
+              "description": "Simple tool for searching videos by keyword in Rumble, BitChute, YouTube and saving results (author, title, link) to CSV file.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 495183493,
+                "language": "Python",
+                "last_commit": "2022-06-13T21:23:33Z",
+                "owner": "jakecreps",
+                "repo": "ruby",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Universal"
+        }
+      ],
+      "title": "Social Media"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Slideshare Downloader",
+          "description": "A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156382275,
+            "language": "Go",
+            "last_commit": "2018-11-08T11:52:41Z",
+            "owner": "mohan3d",
+            "repo": "slideshare-go",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gdown",
+          "description": "When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44421756,
+            "language": "Python",
+            "last_commit": "2026-08-18T10:13:39Z",
+            "owner": "wkentaro",
+            "repo": "gdown",
+            "stars": 5383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waybackpack",
+          "description": "download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55937898,
+            "language": "Python",
+            "last_commit": "2025-04-21T02:54:24Z",
+            "owner": "jsvine",
+            "repo": "waybackpack",
+            "stars": 3229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat-downloader",
+          "description": "download chats messages in JSON from #YouTube, #Twitch, #Reddit and #Facebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282085598,
+            "language": "Python",
+            "last_commit": "2025-11-05T21:22:30Z",
+            "owner": "xenova",
+            "repo": "chat-downloader",
+            "stars": 1188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gallery-dl",
+          "description": "Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25129800,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:53:37Z",
+            "owner": "mikf",
+            "repo": "gallery-dl",
+            "stars": 19302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify downloader",
+          "description": "download spotify playlist in mp3 from YouTube",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62743585,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:08:03Z",
+            "owner": "spotDL",
+            "repo": "spotify-downloader",
+            "stars": 25891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TikTok Scraper",
+          "description": "scrapping video from user, trend or hashtag feed, extracting video's or user's metadata, downloading video or music, processing a list of clips or users from a file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216998956,
+            "language": "TypeScript",
+            "last_commit": "2023-05-19T05:56:45Z",
+            "owner": "drawrowfly",
+            "repo": "tiktok-scraper",
+            "stars": 5171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Comment Downloader",
+          "description": "easy to install and fast tool for downloading YouTube comments in txt/json. Does NOT require authorization or API keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41689220,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:02:36Z",
+            "owner": "egbertbouman",
+            "repo": "youtube-comment-downloader",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gdown",
+          "description": "When downloading files from Google Drive curl/wget fails (because of the security notice). But this problem is easily solved.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44421756,
+            "language": "Python",
+            "last_commit": "2026-08-18T10:13:39Z",
+            "owner": "wkentaro",
+            "repo": "gdown",
+            "stars": 5383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slideshare Downloader",
+          "description": "A very simple and fast tool for downloading Slideshare presentations in PDF format (recommend to choose High quality at once)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156382275,
+            "language": "Go",
+            "last_commit": "2018-11-08T11:52:41Z",
+            "owner": "mohan3d",
+            "repo": "slideshare-go",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You Get",
+          "description": "Universal content downloader: - download video from popular sites like #YouTube or #TikTok - scrape webpages and download images - download binary files and other non-html content from sites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5483330,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:23:27Z",
+            "owner": "soimort",
+            "repo": "you-get",
+            "stars": 56874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundScrape",
+          "description": "Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15516057,
+            "language": "Python",
+            "last_commit": "2024-06-23T16:29:11Z",
+            "owner": "Miserlou",
+            "repo": "SoundScrape",
+            "stars": 1445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stream Downloader",
+          "description": "Download streams from different sites",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 198585331,
+            "language": "JavaScript",
+            "last_commit": "2021-10-06T13:48:06Z",
+            "owner": "lunnlew",
+            "repo": "stream-downloader",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat Downloader",
+          "description": "Python tool for extracting chat messages from livestreams and broadcast. Supported sites: YouTube Twitch Reddit Zoom Facebook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282085598,
+            "language": "Python",
+            "last_commit": "2025-11-05T21:22:30Z",
+            "owner": "xenova",
+            "repo": "chat-downloader",
+            "stars": 1188
+          }
+        }
+      ],
+      "title": "Downloaders"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telegram Message Analyzer",
+              "description": "Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163685686,
+                "language": "Python",
+                "last_commit": "2021-09-01T13:51:05Z",
+                "owner": "zqtay",
+                "repo": "Telegram-Message-Analyzer",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telegram Nearby Map",
+              "description": "Discover the location of nearby Telegram users on OpenStreetMap",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329705041,
+                "language": "JavaScript",
+                "last_commit": "2024-02-17T15:50:41Z",
+                "owner": "tejado",
+                "repo": "telegram-nearby-map",
+                "stars": 1190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telescan",
+              "description": "search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172563770,
+                "language": "Python",
+                "last_commit": "2025-01-31T12:14:38Z",
+                "owner": "pielco11",
+                "repo": "telescan",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Telescan",
+              "description": "search users in groups (and in which groups is the user) by id, username or phone number",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172563770,
+                "language": "Python",
+                "last_commit": "2025-01-31T12:14:38Z",
+                "owner": "pielco11",
+                "repo": "telescan",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TeleTracker",
+              "description": "Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743311822,
+                "language": "Python",
+                "last_commit": "2024-06-15T18:21:07Z",
+                "owner": "tsale",
+                "repo": "TeleTracker",
+                "stars": 540
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telegram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WAGSCRAPER",
+              "description": "Scraps Whatsapp Group Links From Google Results And Gives Working Links (with group names and images)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430152938,
+                "language": "Python",
+                "last_commit": "2021-11-22T11:28:31Z",
+                "owner": "riz4d",
+                "repo": "WaGpScraper",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WhatsApp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slack Pirate",
+              "description": "tool developed in Python which uses the native Slack APIs to extract 'interesting' information from a Slack workspace given an access token",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163528923,
+                "language": "Python",
+                "last_commit": "2025-01-31T01:48:04Z",
+                "owner": "emtunc",
+                "repo": "SlackPirate",
+                "stars": 780
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slack"
+        }
+      ],
+      "title": "Messengers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OWASP Amass",
+              "description": "The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140457254,
+                "language": "Go",
+                "last_commit": "2026-07-19T05:16:40Z",
+                "owner": "owasp-amass",
+                "repo": "amass",
+                "stars": 15031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Site Dorks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256770027,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:14:21Z",
+                "owner": "Zarcolio",
+                "repo": "sitedorks",
+                "stars": 1053
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hakrawler",
+              "description": "Extreme(!) fast crawler designed for easy, quick discovery of links, endpoints and assets within a web application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228192593,
+                "language": "Go",
+                "last_commit": "2026-08-05T04:05:39Z",
+                "owner": "hakluke",
+                "repo": "hakrawler",
+                "stars": 5115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "0xdork",
+              "description": "Very light and simple #Python tool for Google Dorking",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 415339069,
+                "language": null,
+                "last_commit": "2022-04-02T12:18:29Z",
+                "owner": "rly0nheart",
+                "repo": "0xdork",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fast Google Dorks Scan",
+              "description": "Search the website for vulnerable pages and files with sensitive information using 45 types of Google Dorks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261533481,
+                "language": "Shell",
+                "last_commit": "2025-07-10T12:59:07Z",
+                "owner": "IvanGlinkin",
+                "repo": "Fast-Google-Dorks-Scan",
+                "stars": 1742
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GO DORK",
+              "description": "Fast (like most #osint scripts written in #golang) tool for automation work with Google Dorks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279402524,
+                "language": "Go",
+                "last_commit": "2024-02-04T08:28:00Z",
+                "owner": "dwisiswant0",
+                "repo": "go-dork",
+                "stars": 1300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReconFTW",
+              "description": "tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325671936,
+                "language": "Shell",
+                "last_commit": "2026-08-20T09:01:41Z",
+                "owner": "six2dez",
+                "repo": "reconftw",
+                "stars": 8020
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LFITester",
+              "description": "Tool which tests if a server is vulnerable to Local File Inclusion (LFI) attack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365519428,
+                "language": "Python",
+                "last_commit": "2024-12-16T10:31:05Z",
+                "owner": "kostas-pa",
+                "repo": "LFITester",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Oralyzer",
+              "description": "Script that check website for following types of Open Redirect Vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280821527,
+                "language": "Python",
+                "last_commit": "2023-03-05T20:31:35Z",
+                "owner": "r0075h3ll",
+                "repo": "Oralyzer",
+                "stars": 820
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RobotTester",
+              "description": "Simple Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383126814,
+                "language": "Python",
+                "last_commit": "2025-02-11T07:43:16Z",
+                "owner": "p0dalirius",
+                "repo": "robotstester",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDNStrip",
+              "description": "Very fast #go tool, that sorts the list of IP addresses into two lists: CDN and no CDN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484995631,
+                "language": "Go",
+                "last_commit": "2025-05-06T15:33:26Z",
+                "owner": "j3ssie",
+                "repo": "cdnstrip",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nDorker",
+              "description": "Enter the domain name and get quick links to Google Dorks, Github dorks, Shodan dorks and quick links to get info about domain in Codepad, Codepen, Codeshare and other sites (\"vendor dorking\")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154093048,
+                "language": "Python",
+                "last_commit": "2022-06-04T01:23:17Z",
+                "owner": "nerrorsec",
+                "repo": "Google-Dorker",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scan4all",
+              "description": "15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzzing and many many more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505278571,
+                "language": "Go",
+                "last_commit": "2024-07-12T13:23:48Z",
+                "owner": "GhostTroops",
+                "repo": "scan4all",
+                "stars": 6165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WEBOSINT",
+              "description": "Simple #python tool for step-by-step collection of domain information using HackerTarget and whoisxmlapi APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513150359,
+                "language": "Python",
+                "last_commit": "2022-12-16T20:50:57Z",
+                "owner": "C3n7ral051nt4g3ncy",
+                "repo": "WebOSINT",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KnockKnock",
+              "description": "A very fast script written in #go that queries the ViewDNSInfo API (free, 500 results limit) and gets a list of domains related to target domain (which could theoretically belong to the same person or company)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154699926,
+                "language": "Go",
+                "last_commit": "2023-05-05T01:46:21Z",
+                "owner": "harleo",
+                "repo": "knockknock",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLI Dorks Generator",
+              "description": "python script generates Google Dorks for SQL Injections for sites from the list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507424750,
+                "language": "Python",
+                "last_commit": "2024-12-06T03:30:35Z",
+                "owner": "AhmedOsamaMath",
+                "repo": "sqli-dorks-generator",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dorks Hunter",
+              "description": "A simple script to analyze domain using Google Dorks. It saves in file the results of checking the following categories Backup files, Database files, Exposed documents, Sub-subdomains, Login pages, SQL/PHP errors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520860357,
+                "language": "Python",
+                "last_commit": "2026-07-14T07:59:31Z",
+                "owner": "six2dez",
+                "repo": "dorks_hunter",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xnLinkFinder",
+              "description": "Tool for discover endpoints for a given target. One of the most versatile tools of this type, with dozens of different settings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481754082,
+                "language": "Python",
+                "last_commit": "2026-03-08T20:09:32Z",
+                "owner": "xnl-h4ck3r",
+                "repo": "xnLinkFinder",
+                "stars": 1585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DATA Surgeon",
+              "description": "A tool for extracting various sensitive data from text files and web pages. For example: - emails - phone numbers - API keys - URLs - MAC addresses - Hashes - Bitcoin wallets and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606695903,
+                "language": "Rust",
+                "last_commit": "2024-02-28T17:43:25Z",
+                "owner": "Drew-Alleman",
+                "repo": "DataSurgeon",
+                "stars": 902
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSLEAK",
+              "description": "Extreme fast #Go tool to find secrets (emails, API keys etc), paths, links in the source code during domain recon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620805734,
+                "language": "Go",
+                "last_commit": "2025-09-25T16:36:58Z",
+                "owner": "byt3hx",
+                "repo": "jsleak",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FUZZULI",
+              "description": "Url fuzzing tool written on #go that aims to find critical backup files by creating a dynamic wordlist based on the domain. It's using 7 different methods for creating wordlists: \"shuffle\", \"regular\", \"reverse\", \"mixed\" etc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 506243616,
+                "language": "Go",
+                "last_commit": "2023-08-24T11:53:50Z",
+                "owner": "musana",
+                "repo": "fuzzuli",
+                "stars": 945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XURLFIND3R",
+              "description": "Find domain's known URLs from: AlienVault's, Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, Wayback Machine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366965652,
+                "language": "Go",
+                "last_commit": "2026-02-23T15:54:13Z",
+                "owner": "hueristiq",
+                "repo": "xurlfind3r",
+                "stars": 719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LogSensor",
+              "description": "#Python tool to discover login panels, and POST Form SQLi Scanning. Support multiple hosts scanning, targeted SQLi form scanning and proxies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522084852,
+                "language": "Python",
+                "last_commit": "2023-07-05T08:39:04Z",
+                "owner": "Mr-Robert0",
+                "repo": "Logsensor",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyDork",
+              "description": "Tool for automation collecting Google, Bing, DuckDuckGo, Baidu and Yahoo Japan search results (images search and suggestions). Note the huge(!) number of options for customizing search results.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457665481,
+                "language": "Python",
+                "last_commit": "2026-05-03T22:37:50Z",
+                "owner": "blacknon",
+                "repo": "pydork",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVE Binary Tool",
+              "description": "#Python tool to find known vulnerabilities in software, using data from the NVD), list of CVEs, Redhat, OSV and GAD. 200+ checkers in one tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165313961,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:19:25Z",
+                "owner": "ossf",
+                "repo": "cve-bin-tool",
+                "stars": 1748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVE MAP",
+              "description": "Simple #go command line tool for getting information about CVEs: by ID, by vendor, by product, by severity, by cvss score and much more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699502691,
+                "language": "Go",
+                "last_commit": "2026-08-17T11:23:09Z",
+                "owner": "projectdiscovery",
+                "repo": "vulnx",
+                "stars": 2629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nmap Formatter",
+              "description": "A tool to convert NMAP scan results into different formats: html, csv, Markdown, json, svg (Graphviz), sqlite",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381169911,
+                "language": "Go",
+                "last_commit": "2026-07-10T21:23:28Z",
+                "owner": "vdjagilev",
+                "repo": "nmap-formatter",
+                "stars": 737
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dorks/Pentest/Vulnerabilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HakListGen",
+              "description": "A simple tool written in #Go that allows you to generate a wordlist from any text (from a file or link).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393681148,
+                "language": "Go",
+                "last_commit": "2026-08-05T04:05:46Z",
+                "owner": "hakluke",
+                "repo": "haklistgen",
+                "stars": 229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Repolist",
+              "description": "A very fast and simple tool that allows to generate wordlists for different CMS and frameworks (using Github repos).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 722767638,
+                "language": "Python",
+                "last_commit": "2023-11-25T01:41:56Z",
+                "owner": "Ademking",
+                "repo": "repolist",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MKSUB",
+              "description": "A simple #go tool that generates multi-level subdomain names based on wordlists. Used in combination with subdomain brute-force tools (Sublist3r, Amass, Gobuster etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430782442,
+                "language": "Go",
+                "last_commit": "2023-09-25T15:19:50Z",
+                "owner": "trickest",
+                "repo": "mksub",
+                "stars": 276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MKPATH",
+              "description": "A simple #go tool that generates multi-level file paths based on wordlists. Used in combination with brute-force tools (GoBuster, Dirbuster etc) to find files with sensitive information on target website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430782619,
+                "language": "Go",
+                "last_commit": "2023-09-25T15:19:57Z",
+                "owner": "trickest",
+                "repo": "mkpath",
+                "stars": 176
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wordlists generators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Try.jsoup.org",
+              "description": "online version of HTML pasrer http://github.com/jhy/jsoup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442430,
+                "language": "Java",
+                "last_commit": "2026-08-24T05:15:22Z",
+                "owner": "jhy",
+                "repo": "jsoup",
+                "stars": 11387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Investigo",
+              "description": "A very simple and fast (written in #go) tool that searches for active links to social network accounts by username (or multiple usernames)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163678388,
+                "language": "Go",
+                "last_commit": "2026-07-03T17:35:06Z",
+                "owner": "tdh8316",
+                "repo": "Investigo",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REXTRACT",
+              "description": "This extreme simple tool extracts the strings corresponding to a certain #regex from the html code of the list of URLs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530732729,
+                "language": "Rust",
+                "last_commit": "2022-09-14T14:52:08Z",
+                "owner": "iustin24",
+                "repo": "rextract",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contacts Details Scraper",
+              "description": "Free contact details scraper to extract and download emails, phone numbers, Facebook, Twitter, LinkedIn, and Instagram profiles from any website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189244548,
+                "language": "JavaScript",
+                "last_commit": "2023-02-03T07:29:49Z",
+                "owner": "vdrmota",
+                "repo": "Social-Media-and-Contact-Info-Extractor",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EmailHarvester",
+              "description": "A tool to collect emails registered on a certain domain from search results (google, bing, yahoo, ask) and save the results to a text file. Proxy support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57371972,
+                "language": "Python",
+                "last_commit": "2016-05-03T17:43:04Z",
+                "owner": "4383",
+                "repo": "EmailHarvester",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Email Finder",
+              "description": "Another tool to collect emails registered on a certain domain from search results (google, bing, baidu, yandex). Can be used in combination with EmailHarvester as the two tools produce different results.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 367126152,
+                "language": "Python",
+                "last_commit": "2023-03-09T21:08:54Z",
+                "owner": "Josue87",
+                "repo": "EmailFinder",
+                "stars": 425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "USCRAPPER",
+              "description": "Simple #python tool for extracting different information from web pages: - email addresses - social media links - phone numbers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647721487,
+                "language": "Python",
+                "last_commit": "2024-11-24T10:54:31Z",
+                "owner": "z0m31en7",
+                "repo": "Uscrapper",
+                "stars": 790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoGetCrawl",
+              "description": "Search and download archived web pages and files from Common Crawl and Wayback Machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191992923,
+                "language": "Go",
+                "last_commit": "2024-11-04T08:25:29Z",
+                "owner": "karust",
+                "repo": "gogetcrawl",
+                "stars": 183
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Searchers, scrapers, extractors, parsers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metagoofil",
+              "description": "finds pdf/xlsx/docx files and other documents on the site/server, analyzes their metadata, and outputs a list of found user names and email addresses",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40654736,
+                "language": "Python",
+                "last_commit": "2024-03-21T03:45:48Z",
+                "owner": "laramies",
+                "repo": "metagoofil",
+                "stars": 1311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaDetective",
+              "description": "A simple tool that analyzes the metadata of files in a specific directory and extracts important information from them (names of document creators, names of users who made changes, etc.).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683818400,
+                "language": "Python",
+                "last_commit": "2026-07-15T17:38:43Z",
+                "owner": "franckferman",
+                "repo": "MetaDetective",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aline",
+              "description": "a very simple tool that simply downloads files of a certain type, located on a certain domain and indexed by Google.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423217186,
+                "language": "Python",
+                "last_commit": "2022-01-25T14:57:21Z",
+                "owner": "ferreiraklet",
+                "repo": "Aline",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goblyn",
+              "description": "tool focused to enumeration and capture of website files metadata. It will search for active directories in the website and so enumerate the files, if it find some file it will get the metadata of file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400002167,
+                "language": "Python",
+                "last_commit": "2021-09-11T22:19:46Z",
+                "owner": "loseys",
+                "repo": "Goblyn",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DORK DUMP",
+              "description": "Looks for Google-indexed files with doc, docx, ppt, pptx, csv, pdf, xls, xlsx extensions on a particular domain and downloads them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449044249,
+                "language": "Python",
+                "last_commit": "2026-07-13T15:42:59Z",
+                "owner": "dievus",
+                "repo": "msdorkdump",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoExif",
+              "description": "A simple script to read and delete metadata from images and ACVH videos.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 264575176,
+                "language": "Python",
+                "last_commit": "2025-04-23T12:43:42Z",
+                "owner": "SirCryptic",
+                "repo": "autoexif",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DumpsterDiver",
+              "description": "Tool can analyze big volumes of data and find some \"secrets\" in the files (passwords and hardcoded password, SSH, Azure and AWS keys etc)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135089098,
+                "language": "Python",
+                "last_commit": "2023-04-25T18:57:56Z",
+                "owner": "securing",
+                "repo": "DumpsterDiver",
+                "stars": 1036
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HACHOIR",
+              "description": "One of the most powerful tools for work with files metadata with the most detailed settings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69747106,
+                "language": "Python",
+                "last_commit": "2026-03-06T09:46:56Z",
+                "owner": "vstinner",
+                "repo": "hachoir",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metadata Parser",
+              "description": "A simple #Python library to help retrieve website metadata by URL (description, location, keywords, keywords, images, content author names, and more).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3961068,
+                "language": "Python",
+                "last_commit": "2025-08-30T23:33:38Z",
+                "owner": "jvanasco",
+                "repo": "metadata_parser",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaFinder",
+              "description": "At first glance, it seems like just another tool that searches for documents on a company's website in search engines and analyzes their metadata. But. It searches Baidu and that makes it quite effective.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 319952333,
+                "language": "Python",
+                "last_commit": "2024-01-19T23:22:13Z",
+                "owner": "Josue87",
+                "repo": "MetaFinder",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSLUICE",
+              "description": "#go library for extracting juicy info from JavaScript files: urls, paths, API secrets etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613650366,
+                "language": "Go",
+                "last_commit": "2024-05-22T02:26:53Z",
+                "owner": "BishopFox",
+                "repo": "jsluice",
+                "stars": 1894
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Website's files metadata analyze and files downloads"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FAVIHUNTER",
+              "description": "Generate search queries by URL for searching favicons in FOFA, ZoomEye, Shodan, Criminal IP, Censys, ODIN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737028347,
+                "language": "Python",
+                "last_commit": "2026-08-14T11:58:21Z",
+                "owner": "eremit4",
+                "repo": "favihunter",
+                "stars": 255
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Favicon search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spyse CLI",
+              "description": "command line client for Spyse.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392603702,
+                "language": "Python",
+                "last_commit": "2021-10-17T00:54:03Z",
+                "owner": "spyse-com",
+                "repo": "cli",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HostHunter",
+              "description": "Tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133865365,
+                "language": "Python",
+                "last_commit": "2023-03-30T14:14:12Z",
+                "owner": "SpiderLabs",
+                "repo": "HostHunter",
+                "stars": 1169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dnstwist",
+              "description": "Command line anti-phishing domain name search engine and DNS monitoring service",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37259508,
+                "language": "Python",
+                "last_commit": "2025-04-15T18:41:47Z",
+                "owner": "elceef",
+                "repo": "dnstwist",
+                "stars": 5728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ditto",
+              "description": "Dsmall tool that accepts a domain name as input and generates all its variants for an homograph attack as output, checking which ones are available and which are already registered",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333772078,
+                "language": "Go",
+                "last_commit": "2021-02-01T18:11:45Z",
+                "owner": "evilsocket",
+                "repo": "ditto",
+                "stars": 739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hakrawler",
+              "description": "discover endpoints and assets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228192593,
+                "language": "Go",
+                "last_commit": "2026-08-05T04:05:39Z",
+                "owner": "hakluke",
+                "repo": "hakrawler",
+                "stars": 5115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTPFY",
+              "description": "A fast #nodejs tool for gathering information about a domain or a list of domains. Response time, main page word count, content type, redirect location and many other options (view pic).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519671611,
+                "language": "JavaScript",
+                "last_commit": "2022-10-24T05:26:38Z",
+                "owner": "devxprite",
+                "repo": "httpfy",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hussh",
+              "description": "shell script for domain analyzing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373468526,
+                "language": "Shell",
+                "last_commit": "2021-07-20T06:25:25Z",
+                "owner": "harshnandwana",
+                "repo": "hussh",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPENSQUAT",
+              "description": "Search newly registered phishing domain by keywords; Check it with VirusTotal and Quad9 DNS;",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261263035,
+                "language": "Python",
+                "last_commit": "2026-08-01T12:08:27Z",
+                "owner": "atenreiro",
+                "repo": "opensquat",
+                "stars": 983
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raymond",
+              "description": "Framework for gathering information about website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406396383,
+                "language": "Python",
+                "last_commit": "2023-01-24T02:17:29Z",
+                "owner": "m3z0diac",
+                "repo": "raymond",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Striker",
+              "description": "Quick and simple tool for gathering information about domain (http headers, technologies, vulnerabilities etc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108814404,
+                "language": "Python",
+                "last_commit": "2023-06-04T20:15:11Z",
+                "owner": "s0md3v",
+                "repo": "Striker",
+                "stars": 2341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SiteBroker",
+              "description": "Domain investigation #python tool",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 93606198,
+                "language": "Python",
+                "last_commit": "2024-05-19T12:23:29Z",
+                "owner": "Anon-Exploiter",
+                "repo": "SiteBroker",
+                "stars": 430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FindMyAss (HostSpider)",
+              "description": "Domain investigations toolkit",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 396058565,
+                "language": "Python",
+                "last_commit": "2021-10-20T14:42:34Z",
+                "owner": "h3x0crypt",
+                "repo": "HostSpider",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drishti",
+              "description": "Nodejs toolkit for OSINT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368082130,
+                "language": "JavaScript",
+                "last_commit": "2022-02-03T19:11:07Z",
+                "owner": "indiancyberops",
+                "repo": "Drishti",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crab",
+              "description": "Well done and well designed port scanner, host info gatherer (include whois).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435125398,
+                "language": "Python",
+                "last_commit": "2023-10-21T09:15:17Z",
+                "owner": "N0tA1dan",
+                "repo": "Crab",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MayorSecDNSScan",
+              "description": "Identify DNS records for target domains, check for zone transfers and conduct subdomain enumeration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448364613,
+                "language": "Python",
+                "last_commit": "2024-11-30T15:51:27Z",
+                "owner": "dievus",
+                "repo": "msdnsscan",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cert4Recon",
+              "description": "Very quick and simple subdomain enumeration using http://crt.sh.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497847366,
+                "language": "Python",
+                "last_commit": "2022-06-14T09:25:25Z",
+                "owner": "mathis2001",
+                "repo": "Cert4Recon",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Miteru",
+              "description": "Experimental phishing kit detection tool. It collects phishy URLs from phishing info feeds and checks each phishy URL whether it enables directory listing and contains a phishing kit (compressed file) or not",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149071972,
+                "language": "Ruby",
+                "last_commit": "2026-06-13T02:44:36Z",
+                "owner": "ninoseki",
+                "repo": "miteru",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloakQuest3r",
+              "description": "Tool to uncover the IP address hidden by Cloudflare (or alternatives): - IP address History, - SSL Certificate Analysis, - Subdomain Scanning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713241096,
+                "language": "Python",
+                "last_commit": "2026-01-06T19:57:54Z",
+                "owner": "spyboy-productions",
+                "repo": "CloakQuest3r",
+                "stars": 2247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WEBCOPILOT",
+              "description": "All in one toolkit for subdomain enumeration, extract titles and take screenshots, crawl all the endpoints of the subdomains, search vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 401115811,
+                "language": "Shell",
+                "last_commit": "2024-07-18T14:44:09Z",
+                "owner": "h4r5h1t",
+                "repo": "webcopilot",
+                "stars": 1295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chismodon",
+              "description": "Command line #osint toolkit for domain information gathering. Search by domain name, Google Play Store ID, CIDR/ASN, email/username/password. Partly free.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776991286,
+                "language": "Python",
+                "last_commit": "2025-05-10T21:44:14Z",
+                "owner": "chiasmod0n",
+                "repo": "chiasmodon",
+                "stars": 699
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain/IP investigation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SubDomainsBrute",
+              "description": "Very(!) fast and simple tool for subdomain bruteforce. It find 53 subdomains, scanned 31160 variations in 31 seconds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33232814,
+                "language": "Python",
+                "last_commit": "2022-09-15T17:02:42Z",
+                "owner": "lijiejie",
+                "repo": "subDomainsBrute",
+                "stars": 3621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anubis",
+              "description": "Subdomain enumeration and information gathering tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113704915,
+                "language": "Python",
+                "last_commit": "2026-08-03T10:35:40Z",
+                "owner": "jonluca",
+                "repo": "anubis",
+                "stars": 1374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Turbolist3r",
+              "description": "An improved and accelerated version of famous sublist3r. Looks for subdomains in 11 sources (see picture). It's possible to apply bruteforce (flag -b)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231821779,
+                "language": "Python",
+                "last_commit": "2020-01-04T20:11:58Z",
+                "owner": "alex14324",
+                "repo": "Turbolist3r",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DomE",
+              "description": "Fast and reliable #python script that makes active and/or passive scan to obtain subdomains and search for open ports. Used 21 different #OSINT sources (AlienVault, ThreatCrowd, Urlscan io etc)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461524378,
+                "language": "Python",
+                "last_commit": "2024-02-07T09:12:17Z",
+                "owner": "v4d1",
+                "repo": "Dome",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudBrute",
+              "description": "Tool to find target infrastructure, files, and apps on the popular cloud providers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294051203,
+                "language": "Go",
+                "last_commit": "2025-03-09T17:48:52Z",
+                "owner": "0xsha",
+                "repo": "CloudBrute",
+                "stars": 1145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dnsReaper",
+              "description": "TwiSub-domain takeover tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515495663,
+                "language": "Python",
+                "last_commit": "2025-10-06T10:58:46Z",
+                "owner": "punk-security",
+                "repo": "dnsReaper",
+                "stars": 2216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ALERTX",
+              "description": "Very fast #go tool for search subdomains. For example, it fin 111 http://tesla.com subdomains in 0.003 seconds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616826955,
+                "language": "Go",
+                "last_commit": "2026-07-10T17:32:13Z",
+                "owner": "projectdiscovery",
+                "repo": "alterx",
+                "stars": 992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Seekolver",
+              "description": "#python tool for searching and filtering subdomains using different APIs: SecurityTrails, AlienVault, VirusTotal, SpyOnWeb, Crt sh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565266497,
+                "language": "Python",
+                "last_commit": "2023-12-11T13:58:58Z",
+                "owner": "Krypteria",
+                "repo": "Seekolver",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Subdomains scan/brute"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cloudmare",
+              "description": "Simple tool to find origin servers of websites protected by #Cloudflare, #Sucuri or #Incapsula with a misconfiguration DNS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 122543870,
+                "language": "Python",
+                "last_commit": "2023-07-25T03:01:50Z",
+                "owner": "mrh0wl",
+                "repo": "Cloudmare",
+                "stars": 1784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudUnflare",
+              "description": "Reconnaissance Real IP address for Cloudflare Bypass",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217223065,
+                "language": "Shell",
+                "last_commit": "2021-12-28T20:03:25Z",
+                "owner": "greycatz",
+                "repo": "CloudUnflare",
+                "stars": 368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloudfare"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dirhunt",
+              "description": "Tool for search and analyze directories, can find interesting things if the server has the \"index of\" mode enabled (also useful if the directory listing is not enabled).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116323642,
+                "language": "Python",
+                "last_commit": "2023-10-29T00:20:05Z",
+                "owner": "Nekmo",
+                "repo": "dirhunt",
+                "stars": 2007
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Find directories"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CARBON14",
+              "description": "A simple Python tool that helps you determine when (approximately) some content was published. It find the Last-Modified header of linked images on a particular web page.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121986766,
+                "language": "Python",
+                "last_commit": "2026-05-21T23:41:59Z",
+                "owner": "Lazza",
+                "repo": "Carbon14",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIngle File",
+              "description": "GoogleChrome, Firefox and MicrosoftEdge addon to save webpage in single html file",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 906022,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T14:41:22Z",
+                "owner": "gildas-lormeau",
+                "repo": "SingleFile",
+                "stars": 22228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dirscraper",
+              "description": "OSINT scanning tool which discovers and maps directories found in javascript files hosted on a website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171958994,
+                "language": "Python",
+                "last_commit": "2019-02-24T12:22:47Z",
+                "owner": "Cillian-Collins",
+                "repo": "dirscraper",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SecretFinder",
+              "description": "Tool for find sensitive data (apikeys, accesstoken,jwt,..) or search anything with #regexp on #javascript files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270631619,
+                "language": "Python",
+                "last_commit": "2024-05-26T09:36:41Z",
+                "owner": "m4ll0k",
+                "repo": "SecretFinder",
+                "stars": 2501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LinkFinder",
+              "description": "Simple tool discover endpoints and their parameters in JavaScript files. It's possible to discover individual URLs, groups of URLs and directories. Supports regular expressions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93853890,
+                "language": "Python",
+                "last_commit": "2024-04-13T09:53:27Z",
+                "owner": "GerbenJavado",
+                "repo": "LinkFinder",
+                "stars": 4438
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Source Code Analyzes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Broken Link Hijacker",
+              "description": "Crawls the website and searches for all the broken links (in \"<a href\" and \"<img src\").",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343138256,
+                "language": "Python",
+                "last_commit": "2024-04-06T06:19:47Z",
+                "owner": "MayankPandey01",
+                "repo": "BrokenLinkHijacker",
+                "stars": 101
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Broken Links Checkers"
+        }
+      ],
+      "title": "Domain/IP/Links"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GORIS",
+              "description": "Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89452596,
+                "language": "Go",
+                "last_commit": "2026-07-07T01:45:08Z",
+                "owner": "tanaikech",
+                "repo": "goris",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LingoLens",
+              "description": "Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612005876,
+                "language": "HTML",
+                "last_commit": "2026-05-29T11:31:37Z",
+                "owner": "OSINT-mindset",
+                "repo": "lingolens",
+                "stars": 87
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reverse Image Search Engines and automation tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sherloq",
+              "description": "open source image #forensic toolset made by profesional photograph Guido Bartoli",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95291041,
+                "language": "Perl",
+                "last_commit": "2026-07-16T11:39:56Z",
+                "owner": "GuidoBartoli",
+                "repo": "sherloq",
+                "stars": 3192
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image Analyze"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EXIF-PY",
+              "description": "get exif data of photos thrue command line",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4514692,
+                "language": "Python",
+                "last_commit": "2026-06-10T14:55:25Z",
+                "owner": "ianare",
+                "repo": "exif-py",
+                "stars": 960
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exifLooter",
+              "description": "Quick #go tool to automate work with EXIF data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519515664,
+                "language": "Go",
+                "last_commit": "2026-01-16T16:34:17Z",
+                "owner": "aydinnyunus",
+                "repo": "exifLooter",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PYMETA",
+              "description": "A tool that searches (using Google, Bing etc.) for documents in the domain, analyses their metadata and generate a report in CSV format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127919035,
+                "language": "Python",
+                "last_commit": "2024-06-19T14:27:59Z",
+                "owner": "m8sec",
+                "repo": "pymeta",
+                "stars": 525
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Exif Analyze and editing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Face Recognition",
+              "description": "facial recognition api for Python and the command line",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83844720,
+                "language": "Python",
+                "last_commit": "2026-06-25T11:12:50Z",
+                "owner": "ageitgey",
+                "repo": "face_recognition",
+                "stars": 56682
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Face recognition and search"
+        }
+      ],
+      "title": "Image Search and Identification"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Scraper",
+          "description": "Simple tool for scrapping emails and social media accounts from the website's source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365220361,
+            "language": "Python",
+            "last_commit": "2026-05-29T15:44:46Z",
+            "owner": "champmq",
+            "repo": "TheScrapper",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudScraper",
+          "description": "Scrape URL's of the target website and find links to cloud resources: Amazonaws, Digitaloceanspaces, Azure (windows net), Storage.googleapis, Aliyuncs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133761109,
+            "language": "Python",
+            "last_commit": "2022-03-07T21:05:37Z",
+            "owner": "jordanpotti",
+            "repo": "CloudScraper",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Search",
+          "description": "collection of Github investigation command line tools. Explore users, employes, endpoints,surveys and grab the repos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67489244,
+            "language": "Python",
+            "last_commit": "2023-02-09T14:17:06Z",
+            "owner": "gwen001",
+            "repo": "github-search",
+            "stars": 1509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Artifact Exporter",
+          "description": "provides a set of packages to make exporting Issues easier useful for those migrating information out of Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 292700337,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T19:49:25Z",
+            "owner": "github",
+            "repo": "github-artifact-exporter",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTTP Cat",
+          "description": "free #API to get pictures with cats for different HTTP response codes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41638869,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T06:57:33Z",
+            "owner": "httpcats",
+            "repo": "http.cat",
+            "stars": 3681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thanks",
+          "description": "A simple script that analyzes the #opensource products used in your project and displays a list of links to pages for financial support for their developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120575114,
+            "language": "JavaScript",
+            "last_commit": "2023-07-10T20:45:07Z",
+            "owner": "feross",
+            "repo": "thanks",
+            "stars": 2761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Fuck",
+          "description": "Simple app which corrects your previous console commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33614304,
+            "language": "Python",
+            "last_commit": "2024-07-19T14:56:13Z",
+            "owner": "nvbn",
+            "repo": "thefuck",
+            "stars": 97740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheat․sh",
+          "description": "Timesaving tool that allows cheat sheets to be loaded directly into the command line (or Sublime Text/IntelliJ IDEA) using the curl command (run after installation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90563585,
+            "language": "Python",
+            "last_commit": "2025-12-23T18:48:24Z",
+            "owner": "chubin",
+            "repo": "cheat.sh",
+            "stars": 41678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TLDR",
+          "description": "A tool that is a great time-saver when working with the command line. Enter \"tldr command name\" and get a brief description with examples of how to use it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15019962,
+            "language": "Markdown",
+            "last_commit": "2026-08-24T13:43:39Z",
+            "owner": "tldr-pages",
+            "repo": "tldr",
+            "stars": 63468
+          }
+        }
+      ],
+      "title": "Code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Unlocked",
+          "description": "browser extension uncensor google search results",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176849340,
+            "language": "JavaScript",
+            "last_commit": "2023-12-02T03:29:26Z",
+            "owner": "Ibit-to",
+            "repo": "google-unlocked",
+            "stars": 2388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SearXNG",
+          "description": "Free internet metasearch engine which aggregates results from more than 70 search services. No tracking. Can be used over Tor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357241735,
+            "language": "Python",
+            "last_commit": "2026-08-22T05:35:24Z",
+            "owner": "searxng",
+            "repo": "searxng",
+            "stars": 36035
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "S",
+              "description": "Search from command line in 106 different sources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50270924,
+                "language": "Go",
+                "last_commit": "2026-07-27T03:07:50Z",
+                "owner": "zquestz",
+                "repo": "s",
+                "stars": 2596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Search Engines Scraper",
+              "description": "Collects search results in text files. It's possible to search Google, Bing, DuckDuckGo, AOL and other search engines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116609821,
+                "language": "Python",
+                "last_commit": "2025-04-02T16:39:54Z",
+                "owner": "tasos-py",
+                "repo": "Search-Engines-Scraper",
+                "stars": 669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Startpage Parser",
+              "description": "Startpage.com search engine produces similar (but not identical) results to Google's, but is much less likely to get banned. This #python tool allows to scrape big amounts of results without using proxies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372860883,
+                "language": "Python",
+                "last_commit": "2021-07-07T05:11:39Z",
+                "owner": "MindPatch",
+                "repo": "startpage-parser",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BigSearch",
+              "description": "Google Chrome and Firefox addon for quick access to dozens of online search tools: general search engines, video hosts, programming forums, translators and much more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261625097,
+                "language": "JavaScript",
+                "last_commit": "2025-09-21T02:40:10Z",
+                "owner": "garywill",
+                "repo": "BigSearch",
+                "stars": 272
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Universal search tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Onion Search",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248205029,
+                "language": "Python",
+                "last_commit": "2024-08-08T11:31:59Z",
+                "owner": "megadose",
+                "repo": "OnionSearch",
+                "stars": 1775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TheDevilsEye",
+              "description": "Search links in #darknet (.onion domain zone) from command line without using a Tor network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402074318,
+                "language": null,
+                "last_commit": "2025-12-14T23:02:03Z",
+                "owner": "rly0nheart",
+                "repo": "thedevilseye",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pasta",
+              "description": "Pastebin scraper, which generates random paste addresses and checks if there is any text in them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369866916,
+                "language": "Python",
+                "last_commit": "2022-05-02T13:51:30Z",
+                "owner": "Kr0ff",
+                "repo": "Pasta",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pastebin-Bisque",
+              "description": "Command line #python tool, which downloads all the pastes of a particular #Pastebin user.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 243270020,
+                "language": "Python",
+                "last_commit": "2025-04-16T00:19:53Z",
+                "owner": "bbbbbrie",
+                "repo": "pastebin-bisque",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Darknet/deepweb search tools"
+        }
+      ],
+      "title": "Search engines"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Googler",
+          "description": "command line google search tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40797633,
+            "language": "Python",
+            "last_commit": "2021-11-13T08:09:20Z",
+            "owner": "jarun",
+            "repo": "googler",
+            "stars": 6204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Search Navigator",
+          "description": "extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98684875,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T03:13:20Z",
+            "owner": "infokiller",
+            "repo": "web-search-navigator",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDorker",
+          "description": "Type the Google Dork and get the list of the pages, that came up with this query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145284204,
+            "language": "Shell",
+            "last_commit": "2023-09-29T09:11:08Z",
+            "owner": "TheSpeedX",
+            "repo": "SDorker",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XGS",
+          "description": "allows you to search for links to onion sites using Google Dorks (site:http://onion.cab, site:http://onion.city etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409759704,
+            "language": "Python",
+            "last_commit": "2024-01-07T19:39:50Z",
+            "owner": "sanfor2004",
+            "repo": "XGS",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anon Scraper",
+          "description": "Search uploaded files to AnonFile using Google",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227665762,
+            "language": "Python",
+            "last_commit": "2021-12-29T22:53:49Z",
+            "owner": "370rokas",
+            "repo": "anonscraper",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yagooglesearch",
+          "description": "\"Simulates real human Google search behavior to prevent rate limiting by Google and if HTTP 429 blocked by Google, logic to back off and continue trying\" (c)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400291486,
+            "language": "Python",
+            "last_commit": "2024-04-07T13:07:42Z",
+            "owner": "opsdisk",
+            "repo": "yagooglesearch",
+            "stars": 293
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TheLordEye",
+              "description": "Tool that searches for devices directly connected to the internet with a user specified query. It returns results for webcams, traffic lights, routers, smart TVs etc",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 413835765,
+                "language": "Python",
+                "last_commit": "2023-10-25T00:09:35Z",
+                "owner": "rly0nheart",
+                "repo": "thelordseye",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IOT (ip search engines)"
+        }
+      ],
+      "title": "Tools for Google"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Time Machine",
+              "description": "Tool for gathering domain info from WayBackMachine: - fetches subdomains from waybackurl; - search for /api/JSON/Configuration endpoints and many more (view pic)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451180204,
+                "language": "Python",
+                "last_commit": "2026-05-05T08:58:12Z",
+                "owner": "anmolksachan",
+                "repo": "TheTimeMachine",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waybackpack",
+              "description": "download the entire #WaybackMachine archive for a given URL. You can only download versions for a certain date range (date format YYYYMMDDhhss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55937898,
+                "language": "Python",
+                "last_commit": "2025-04-21T02:54:24Z",
+                "owner": "jsvine",
+                "repo": "waybackpack",
+                "stars": 3229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TheTimeMachine",
+              "description": "Toolkit to use http://archive.org to search for vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 451180204,
+                "language": "Python",
+                "last_commit": "2026-05-05T08:58:12Z",
+                "owner": "anmolksachan",
+                "repo": "TheTimeMachine",
+                "stars": 551
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waybackpy",
+              "description": "If you want to write your own script to work with http://archive.org, check out the #python library Wayback Machine API. You can use it to quickly automate the extraction of all sorts of website data from the webarchive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260652547,
+                "language": "Python",
+                "last_commit": "2024-02-26T00:15:49Z",
+                "owner": "akamhy",
+                "repo": "waybackpy",
+                "stars": 603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WaybackPDF",
+              "description": "Collects a list of saved PDFs for the given domain from http://archive.org and downloads them into a folder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262023463,
+                "language": "Python",
+                "last_commit": "2020-06-20T13:49:27Z",
+                "owner": "Haax9",
+                "repo": "WaybackPDF",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Archive-org-Downloader",
+              "description": "A simple #python script for downloading books from http://archive.org in PDF format. You can adjust image resolution to optimize file size and work with link lists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339681257,
+                "language": "Python",
+                "last_commit": "2026-08-13T22:05:17Z",
+                "owner": "MiniGlome",
+                "repo": "Archive.org-Downloader",
+                "stars": 1345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WayMore",
+              "description": "Search archived links to domain in Wayback Machine and Common Crawl (+ Urlscan and Alien Vault OTX).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507135376,
+                "language": "Python",
+                "last_commit": "2026-06-11T10:45:51Z",
+                "owner": "xnl-h4ck3r",
+                "repo": "waymore",
+                "stars": 2729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wayback Keywords Search",
+              "description": "A tool that allows you to download all the pages of a particular domain from http://archive.org for a particular month or day, and quickly do a keyword search on those pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422806004,
+                "language": "Python",
+                "last_commit": "2026-01-10T12:49:51Z",
+                "owner": "lorenzoromani1983",
+                "repo": "wayback-keyword-search",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Archive Google Chrome Extension",
+              "description": "Simple Chrome Extensions for getting information about current URL using http://archive.org CDX API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691937696,
+                "language": "JavaScript",
+                "last_commit": "2023-09-15T07:56:52Z",
+                "owner": "husseinphp",
+                "repo": "web-archive",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAYBACK GOOGLE ANALYTICS",
+              "description": "A tool that finds all Google Analytics ID in URL (including old ones from Web Archive).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692086485,
+                "language": "Python",
+                "last_commit": "2024-08-21T10:15:47Z",
+                "owner": "bellingcat",
+                "repo": "wayback-google-analytics",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GAU",
+              "description": "Simple #golang tool to fetch all known website URLs from: WayBackMachine, AlienVault's Open Threat Exchange, Common Crawl, URLScan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242879301,
+                "language": "Go",
+                "last_commit": "2026-03-20T18:36:42Z",
+                "owner": "lc",
+                "repo": "gau",
+                "stars": 5072
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools for working with web archives"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Warcat",
+              "description": "My favorite (because it's the easiest) tool for working with Warc files. It allows you to see the list of files in the archive (command \"list\") and unpack it (command \"extract\").",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9325786,
+                "language": "Python",
+                "last_commit": "2024-10-11T09:28:20Z",
+                "owner": "chfoo",
+                "repo": "warcat",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Replayweb",
+              "description": "If the warc file is small, you can view its contents with this extreme simple online tool. Also it's possible to deploy ReplayWeb on your own server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226910387,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T22:28:03Z",
+                "owner": "webrecorder",
+                "repo": "replayweb.page",
+                "stars": 973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metawarc",
+              "description": "Allows you to quickly analyze the structure of the warc file and collect metadata from all the files in the archive",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262877321,
+                "language": "Python",
+                "last_commit": "2026-08-20T08:21:31Z",
+                "owner": "ruarxive",
+                "repo": "metawarc",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRAB SITE",
+              "description": "Af you need to make a Warc archive out of a huge site with a lot of different content, then it is better to use this #python script with dozens of different settings that will optimize the process as much as possible.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30338639,
+                "language": "Python",
+                "last_commit": "2025-05-23T09:57:06Z",
+                "owner": "ArchiveTeam",
+                "repo": "grab-site",
+                "stars": 1607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "har2warc",
+              "description": "Convert HTTP Archive (HAR) -> Web Archive (WARC) format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85133941,
+                "language": "Python",
+                "last_commit": "2018-10-21T05:01:44Z",
+                "owner": "webrecorder",
+                "repo": "har2warc",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools for working with WARC (WebARChive) files"
+        }
+      ],
+      "title": "Archives"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PassHunt",
+          "description": "Command line tool for searching of default credentials for network devices, web applications and more. Search through 523 vendors and their 2084 default passwords",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117403042,
+            "language": "Python",
+            "last_commit": "2018-12-23T06:58:11Z",
+            "owner": "Viralmaniar",
+            "repo": "Passhunt",
+            "stars": 1303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search-That-Hash",
+          "description": "Python tool for automating password hash detection (based on Hashcat). It can work with single strings as well as with long lists of hashes from a text file. Useful for investigating data leaks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 291369196,
+            "language": "Python",
+            "last_commit": "2025-03-05T09:39:17Z",
+            "owner": "Jayy001",
+            "repo": "Search-That-Hash",
+            "stars": 1413
+          }
+        }
+      ],
+      "title": "Passwords"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "geeMail User Finder",
+          "description": "A simple tool to check the validity of a Gmail account. You can check a single email or a list of emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488622799,
+            "language": "Python",
+            "last_commit": "2025-07-13T16:08:06Z",
+            "owner": "dievus",
+            "repo": "geeMailUserFinder",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailfoguess",
+          "description": "tool create a lot of possible local-part from personal information, add domain to all local-part respecting the conditions of creation of mail of these domains and verify these mails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 401125757,
+            "language": "Python",
+            "last_commit": "2024-01-28T23:05:12Z",
+            "owner": "WildSiphon",
+            "repo": "Mailfoguess",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailcat",
+          "description": "find existing email addresses by nickname in 22 providers, > 60 domains and > 100 aliases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398259833,
+            "language": "Python",
+            "last_commit": "2026-05-24T16:35:26Z",
+            "owner": "sharsil",
+            "repo": "mailcat",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H8mail",
+          "description": "email OSINT and breach hunting tool using different breach and reconnaissance services, or local breaches such as Troy Hunt's \"Collection1\" and the infamous \"Breach Compilation\" torrent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137433290,
+            "language": "Python",
+            "last_commit": "2023-08-15T10:50:34Z",
+            "owner": "khast3x",
+            "repo": "h8mail",
+            "stars": 5271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mailMeta",
+          "description": "Simple tool to analyze emails headers and identify spoofed emails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 380052189,
+            "language": "Python",
+            "last_commit": "2021-06-25T18:41:21Z",
+            "owner": "gr33nm0nk2802",
+            "repo": "mailMeta",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmailAnalyzer",
+          "description": "Tool for analyzing .eml files. It analyzes and checks with VirusTotal links, attachments and headers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570523307,
+            "language": "Python",
+            "last_commit": "2026-04-24T20:03:36Z",
+            "owner": "keraattin",
+            "repo": "EmailAnalyzer",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What Mail?",
+          "description": "Simple #python tool for email headers analyze and visualize them in a table.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645413234,
+            "language": "Python",
+            "last_commit": "2023-07-27T17:51:10Z",
+            "owner": "z0m31en7",
+            "repo": "WhatMail",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZEHEF",
+          "description": "A simple #Python tool that collects information about an email. It checks its reputation in different sources and finds possible accounts in different social networks (some functions may not work properly, the tool is in development).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653262447,
+            "language": "Python",
+            "last_commit": "2024-11-13T15:26:30Z",
+            "owner": "N0rz3",
+            "repo": "Zehef",
+            "stars": 1061
+          }
+        }
+      ],
+      "title": "Emails"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NEXFIL",
+          "description": "Search username by 350 social media platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 369583524,
+            "language": "Python",
+            "last_commit": "2023-09-30T04:43:12Z",
+            "owner": "thewhiteh4t",
+            "repo": "nexfil",
+            "stars": 2608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spy",
+          "description": "Just another very quick and simple account checker by username (210 sites in list).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378971687,
+            "language": "Python",
+            "last_commit": "2021-07-14T08:04:35Z",
+            "owner": "CYB3R-G0D",
+            "repo": "SPY",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aliens eye",
+          "description": "Find links to social media accounts in 70 websites by username",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409072882,
+            "language": "Python",
+            "last_commit": "2026-07-16T22:11:25Z",
+            "owner": "arxhr007",
+            "repo": "Aliens_eye",
+            "stars": 3501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thorndyke",
+          "description": "Checks the availability of a specified username on over 200 websites",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 418261810,
+            "language": "Python",
+            "last_commit": "2022-05-25T15:34:56Z",
+            "owner": "rly0nheart",
+            "repo": "thorndyke",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marple",
+          "description": "It collect links contains nickname/name/surname in url from Google and DuckDuckGo search results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428809032,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:43:53Z",
+            "owner": "soxoj",
+            "repo": "marple",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holehe",
+          "description": "check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275031765,
+            "language": "Python",
+            "last_commit": "2024-09-10T20:24:32Z",
+            "owner": "megadose",
+            "repo": "holehe",
+            "stars": 14110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UserFinder",
+          "description": "tool for finding profiles by username",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387481338,
+            "language": "Shell",
+            "last_commit": "2025-11-16T16:14:28Z",
+            "owner": "mishakorzik",
+            "repo": "UserFinder",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snoop",
+          "description": "Search users profile by nickname",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240491830,
+            "language": "Python",
+            "last_commit": "2026-07-30T06:34:29Z",
+            "owner": "snooppr",
+            "repo": "snoop",
+            "stars": 4010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyosint",
+          "description": "Search for usenames form a list of 326 websites. Scrap a website to extract all links form a given website. Automate the search of subdomains of a given domain from diffrent services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372018821,
+            "language": "Python",
+            "last_commit": "2024-06-05T17:01:09Z",
+            "owner": "syamsv",
+            "repo": "Pyosint",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackBird",
+          "description": "- Search username across 200+ sites; - API username check (Protonmail, PlayerDB, Hackthebox etc); - Check archived Twitter accounts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489384246,
+            "language": "Python",
+            "last_commit": "2025-07-13T13:48:19Z",
+            "owner": "p1ngul1n0",
+            "repo": "blackbird",
+            "stars": 7830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Sherlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438500362,
+            "language": "Go",
+            "last_commit": "2023-10-19T12:41:39Z",
+            "owner": "Longwater1234",
+            "repo": "go-sherlock",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Nicknames"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phomber",
+          "description": "Get information about phone number with command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 399737831,
+            "language": "Python",
+            "last_commit": "2023-11-13T03:19:43Z",
+            "owner": "s41r4j",
+            "repo": "phomber",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireFly",
+          "description": "Get information about phone number using Numverify API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 305911291,
+            "language": "Python",
+            "last_commit": "2024-05-25T06:45:31Z",
+            "owner": "Lexxrt",
+            "repo": "FireFly",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhoneNumber OSINT",
+          "description": "Simple tool for gathering basic information about phone numbers (country code, timezone, provider)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 499919734,
+            "language": "Python",
+            "last_commit": "2025-10-21T17:24:04Z",
+            "owner": "spider863644",
+            "repo": "PhoneNumber-OSINT",
+            "stars": 805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phunter",
+          "description": "Phone number #osint command line #python tool. Gather different info: operator, possible(s) location(s), line type, reputation, various scraped information, spammer or not, connect to amazon or not",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737283123,
+            "language": "Python",
+            "last_commit": "2024-04-06T12:00:36Z",
+            "owner": "N0rz3",
+            "repo": "Phunter",
+            "stars": 1172
+          }
+        }
+      ],
+      "title": "Phone numbers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DaProfiler",
+          "description": "Get emails, social medias, adresses of peoples using web scraping and google dorking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 697279097,
+            "language": null,
+            "last_commit": "2023-09-27T12:07:46Z",
+            "owner": "TheRealDalunacrobate",
+            "repo": "DaProfiler",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Analyzer",
+          "description": "tool for searching nickname profiles on more than 300 sites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317319347,
+            "language": "JavaScript",
+            "last_commit": "2026-01-12T21:50:25Z",
+            "owner": "qeeqbox",
+            "repo": "social-analyzer",
+            "stars": 23816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEAKEY",
+          "description": "#bash script which checks and validates for leaked credentials (45 types).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721095581,
+            "language": "Shell",
+            "last_commit": "2023-12-05T07:46:36Z",
+            "owner": "rynosec",
+            "repo": "LEAKEY",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "Universal Contact Search and Leaks Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rug",
+          "description": "Extreme simple tool for generating random user data.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 435634235,
+            "language": "Visual Basic .NET",
+            "last_commit": "2023-10-13T18:39:06Z",
+            "owner": "rly0nheart",
+            "repo": "rug",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Face Live",
+          "description": "Real-time face swap for streaming and video calls",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 321659062,
+            "language": "Python",
+            "last_commit": "2024-11-08T03:07:42Z",
+            "owner": "iperov",
+            "repo": "DeepFaceLive",
+            "stars": 31012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThisPersonDoesNotExistAPI (unofficial)",
+          "description": "#Python library that returns a random \"doesnotexist\" person picture generated by AI (with site http://thispersondoesnotexist.com)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 171178270,
+            "language": "Python",
+            "last_commit": "2024-02-25T18:08:01Z",
+            "owner": "David-Lor",
+            "repo": "ThisPersonDoesNotExistAPI",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faker",
+          "description": "Python tool for generating fake data in different languages. Generate addresses, city names, postal codes (you can choose the country), names, meaningless texts, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6662075,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:43:48Z",
+            "owner": "joke2k",
+            "repo": "faker",
+            "stars": 19374
+          }
+        }
+      ],
+      "title": "Sock Puppets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chepy",
+          "description": "Python command line version of CyberChef",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217784043,
+            "language": "Python",
+            "last_commit": "2026-04-27T01:30:15Z",
+            "owner": "securisec",
+            "repo": "chepy",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLIGPT",
+          "description": "The simplest tool possible (with as few settings as possible) for working with ChatGPT API at the command line and using in bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 755167864,
+            "language": "Go",
+            "last_commit": "2024-02-27T19:48:26Z",
+            "owner": "paij0se",
+            "repo": "cligpt",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MALWOVERVIEW",
+          "description": "Get maximum information about potentially malicious files and links from: Virus Total, Hybrid Analysis, URLHaus, PolySwarm, Mal Share, Alien Vault, Malpedia, ThreatFox, Triage, InQuest",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147892666,
+            "language": "Python",
+            "last_commit": "2026-08-07T20:16:45Z",
+            "owner": "alexandreborges",
+            "repo": "malwoverview",
+            "stars": 4072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LADDER",
+          "description": "A tool to enhance web browsing experience: bypass paywalls and remove ads, no tracking and logs, modify URL parameters, http-headers and HTML code of web pages and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 713106159,
+            "language": "Go",
+            "last_commit": "2026-08-21T22:13:55Z",
+            "owner": "everywall",
+            "repo": "ladder",
+            "stars": 8860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LemmeKnow",
+          "description": "Tool for \"identifying mysterious text or analyze hard-coded strings\". Identifies API keys, cryptocurrency wallet numbers, encrypted strings, YouTube channel IDs, IPs, credit card numbers and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 401032097,
+            "language": "Rust",
+            "last_commit": "2024-06-05T08:29:25Z",
+            "owner": "swanandx",
+            "repo": "lemmeknow",
+            "stars": 1114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Valid8Proxy",
+          "description": "Retrieve proxies from popular proxy sources, officiently validate proxies, save the list of validated proxies to a file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727482437,
+            "language": "Python",
+            "last_commit": "2025-11-20T00:04:36Z",
+            "owner": "spyboy-productions",
+            "repo": "Valid8Proxy",
+            "stars": 266
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gephi",
+              "description": "fast and easy to learn graph analytics tool with a lot of modules (plugins)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2624521,
+                "language": "Java",
+                "last_commit": "2026-08-24T08:18:43Z",
+                "owner": "gephi",
+                "repo": "gephi",
+                "stars": 6620
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visualization tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyWhat",
+              "description": "Python tool to help identify different text strings like wallet numbers, API keys, emails, and more. It is convenient for working with .pcap and other files and has many customization options.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349553695,
+                "language": "Python",
+                "last_commit": "2023-10-31T22:01:01Z",
+                "owner": "bee-san",
+                "repo": "pyWhat",
+                "stars": 7313
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Routine/Data Extraction Automation"
+        }
+      ],
+      "title": "NOOSINT tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grep for OSINT",
+          "description": "simple toolkit that helps to quickly extract \"important data\" (phone numbers, email addresses, URLs) from the text / file directory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391687712,
+            "language": "Shell",
+            "last_commit": "2023-03-05T16:21:06Z",
+            "owner": "cipher387",
+            "repo": "grep_for_osint",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CompressedCrack",
+          "description": "Simple tool for brute passwords for ZIP and RAR archives",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91404260,
+            "language": "Python",
+            "last_commit": "2025-12-12T03:37:49Z",
+            "owner": "mnismt",
+            "repo": "CompressedCrack",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDFX",
+          "description": "get meta data of PDF files thrue command line",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 44324461,
+            "language": "Python",
+            "last_commit": "2023-06-15T04:37:39Z",
+            "owner": "metachris",
+            "repo": "pdfx",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mutagen",
+          "description": "get meta data of audiofiles thrue command line",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55713112,
+            "language": "Python",
+            "last_commit": "2026-08-20T05:18:15Z",
+            "owner": "quodlibet",
+            "repo": "mutagen",
+            "stars": 1949
+          }
+        }
+      ],
+      "title": "Files"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Play Scraper",
+          "description": "get the most detailed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33560000,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:12:55Z",
+            "owner": "facundoolano",
+            "repo": "google-play-scraper",
+            "stars": 2948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Store Scraper",
+          "description": "get the most detailed metadata about the app from AppStore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60108707,
+            "language": "JavaScript",
+            "last_commit": "2025-07-27T18:09:47Z",
+            "owner": "facundoolano",
+            "repo": "app-store-scraper",
+            "stars": 1412
+          }
+        }
+      ],
+      "title": "Apps and programs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Corporates Command Line Client (Occli)",
+          "description": "Gathering detailed information about company through cli.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 414510095,
+            "language": "Python",
+            "last_commit": "2023-01-22T10:31:29Z",
+            "owner": "rly0nheart",
+            "repo": "occli",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Company information search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amazon Scraper",
+              "description": "scraped detail information about list of items",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257380356,
+                "language": "Python",
+                "last_commit": "2023-06-13T01:38:51Z",
+                "owner": "scrapehero-code",
+                "repo": "amazon-scraper",
+                "stars": 439
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Amazon"
+        }
+      ],
+      "title": "Tender/shipment information search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scrummage",
+          "description": "Ultimate OSINT and Threat Hunting Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 180511028,
+            "language": "Python",
+            "last_commit": "2025-01-02T03:15:11Z",
+            "owner": "matamorphosis",
+            "repo": "Scrummage",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mr.Holmes",
+          "description": "osint toolkit for gathering information about domains, phone numbers and social media accounts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379487346,
+            "language": "Python",
+            "last_commit": "2026-02-21T11:15:55Z",
+            "owner": "Lucksi",
+            "repo": "Mr.Holmes",
+            "stars": 4099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEMID osint framework",
+          "description": "Search user info in Tiktok, Playstation, Discord, Doxbin,Twitter, Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 447595150,
+            "language": "Python",
+            "last_commit": "2023-12-24T13:35:53Z",
+            "owner": "Himatric",
+            "repo": "SEMID",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAZAR",
+          "description": "universal Osint Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645181253,
+            "language": "JavaScript",
+            "last_commit": "2023-05-25T05:39:59Z",
+            "owner": "MR-CODEX666",
+            "repo": "NAZAR",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E4GL30S1NT",
+          "description": "ShellScript toolkit for #osint (12 tools)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 393635960,
+            "language": "Python",
+            "last_commit": "2026-07-05T10:20:50Z",
+            "owner": "C0MPL3XDEV",
+            "repo": "E4GL30S1NT",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon Spider",
+          "description": "Advanced Open Source Intelligence (#OSINT) Framework for scanning IP Address, Emails, Websites, Organizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161927328,
+            "language": "Python",
+            "last_commit": "2023-09-26T10:12:16Z",
+            "owner": "bhavsec",
+            "repo": "reconspider",
+            "stars": 2777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoMapEnum",
+          "description": "Gather emails on Linkedin (via Linkedin and via Google) + User enumeration and password bruteforce on Azure, ADFS, OWA, O365 (this part seems to be still in development)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425630830,
+            "language": "Go",
+            "last_commit": "2025-09-24T11:37:21Z",
+            "owner": "nodauf",
+            "repo": "GoMapEnum",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owasp Maryam",
+          "description": "modular open-source framework based on OSINT and data gathering",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 214868201,
+            "language": "Python",
+            "last_commit": "2024-09-19T18:18:53Z",
+            "owner": "saeeddhqan",
+            "repo": "Maryam",
+            "stars": 1228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghoulbond",
+          "description": "Just another all-in-one command line toolkit for gathering information about system (technical characteristics, internet speed, IP/Mac address, port scanner)+some features for nickname and phone number #osint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425874773,
+            "language": "Python",
+            "last_commit": "2022-10-26T15:12:27Z",
+            "owner": "hitesh22rana",
+            "repo": "ghoulbond",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabigoor",
+          "description": "Simple and fast #osint framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188367911,
+            "language": "Go",
+            "last_commit": "2026-08-08T16:20:35Z",
+            "owner": "j3ssie",
+            "repo": "metabigor",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discover",
+          "description": "Custom bash scripts used to automate various penetration testing tasks including recon, scanning, parsing and listeners with metasploit (16 tools in one)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13932470,
+            "language": "Shell",
+            "last_commit": "2026-08-19T22:44:28Z",
+            "owner": "leebaird",
+            "repo": "discover",
+            "stars": 3928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harpoon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104700494,
+            "language": "Python",
+            "last_commit": "2026-05-18T15:53:14Z",
+            "owner": "Te-k",
+            "repo": "harpoon",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Profounder",
+          "description": "searching users by nickname and scrapping url's from website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372018821,
+            "language": "Python",
+            "last_commit": "2024-06-05T17:01:09Z",
+            "owner": "syamsv",
+            "repo": "Pyosint",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moriarty Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262434885,
+            "language": "Python",
+            "last_commit": "2024-07-13T06:27:10Z",
+            "owner": "AzizKpln",
+            "repo": "Moriarty-Project",
+            "stars": 2073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT-SAN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 329798972,
+            "language": null,
+            "last_commit": "2026-03-19T14:17:16Z",
+            "owner": "Bafomet666",
+            "repo": "OSINT-SAN",
+            "stars": 617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mihari",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181479082,
+            "language": "Ruby",
+            "last_commit": "2026-07-04T02:50:04Z",
+            "owner": "ninoseki",
+            "repo": "mihari",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vichiti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 371035906,
+            "language": "JavaScript",
+            "last_commit": "2022-10-04T17:44:57Z",
+            "owner": "umair9747",
+            "repo": "vichiti",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sarenka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235397821,
+            "language": "Python",
+            "last_commit": "2023-05-04T15:42:26Z",
+            "owner": "KTZgraph",
+            "repo": "sarenka",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ashok",
+          "description": "Swiff knife for #osint",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259674025,
+            "language": "Python",
+            "last_commit": "2022-01-25T12:44:21Z",
+            "owner": "powerexploit",
+            "repo": "Ashok",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IVRE",
+          "description": "framework for network recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23961941,
+            "language": "Python",
+            "last_commit": "2026-08-05T03:17:41Z",
+            "owner": "ivre",
+            "repo": "ivre",
+            "stars": 4116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenssens",
+          "description": "osint framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446139296,
+            "language": "Python",
+            "last_commit": "2022-01-13T21:33:29Z",
+            "owner": "thenurhabib",
+            "repo": "tenssens",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collector",
+          "description": "Universal Osint Toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 461939579,
+            "language": "Python",
+            "last_commit": "2023-04-25T01:47:36Z",
+            "owner": "galihap76",
+            "repo": "collector",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infooze",
+          "description": "User Recon, Mail Finder, Whois/IP/DNS/headers lookup, InstaRecon, Git Recon, Exif Metadata",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 463084097,
+            "language": "JavaScript",
+            "last_commit": "2023-10-31T14:57:16Z",
+            "owner": "devxprite",
+            "repo": "infoooze",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magnifier",
+          "description": "#osint #python toolkit. 15 scripts in one: - subdomain finder; - website emails collector; - zone transfer; - reverse IP lookup; and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237431818,
+            "language": "Python",
+            "last_commit": "2022-07-12T23:55:21Z",
+            "owner": "TheEyeOfCyber",
+            "repo": "Magnifier",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBOT",
+          "description": "Toolkit of 51 modules (for collecting domain/IP information - cookie_brute, wappalyzer, sslcert, leakix, urlscan, wayback (full list in the picture)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468957086,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:51:21Z",
+            "owner": "blacklanternsecurity",
+            "repo": "bbot",
+            "stars": 10493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLASH",
+          "description": "Universal #cli search tool. Search email or username across social media, forums, Pastebin leaks, Github commits and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570776296,
+            "language": "Python",
+            "last_commit": "2024-07-05T00:27:18Z",
+            "owner": "theahmadov",
+            "repo": "slash",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT Toolkit",
+          "description": "Self-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 584471036,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T18:34:43Z",
+            "owner": "dev-lu",
+            "repo": "osint_toolkit",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "Tools collections/toolkits"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cronodump",
+          "description": "When searching for information about citizens of Ukraine, Russia and other CIS countries, often have to deal with leaked databases for the Cronos program (used in government organizations). This simple utility generates Cronos files in CSV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384341341,
+            "language": "Python",
+            "last_commit": "2023-10-02T21:12:21Z",
+            "owner": "alephdata",
+            "repo": "cronodump",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1C Database Converter",
+          "description": "1C is a very popular program in CIS countries for storing data in enterprises (accounting, document management, etc.). This tool allows you to convert 1C files into CSV files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486741233,
+            "language": "Python",
+            "last_commit": "2024-02-12T18:43:56Z",
+            "owner": "soxoj",
+            "repo": "1c-database-converter",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OBSIDIAN CLI",
+          "description": "Very simple #go tool that let to interact with the Obsidian using the terminal. Open, search, create and edit files. Can be combined with any other #cli #osint tools to automate your workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 588934663,
+            "language": "Go",
+            "last_commit": "2026-08-24T05:35:34Z",
+            "owner": "Yakitrak",
+            "repo": "notesmd-cli",
+            "stars": 1578
+          }
+        }
+      ],
+      "title": "Databases and data analyzes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Offen Osint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 328177755,
+            "language": null,
+            "last_commit": "2021-10-08T16:18:08Z",
+            "owner": "Double2Sky",
+            "repo": "OffenOsint",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Huron Osint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148064515,
+            "language": null,
+            "last_commit": "2018-09-09T21:26:12Z",
+            "owner": "HuronOsint",
+            "repo": "OsintDistro",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osintBOX",
+          "description": "Parrot OS Home edition modified with the popular OSINT tools: Dmitry, ExifTool, Maltego, Sherlock, SpiderFoot and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 482068276,
+            "language": "HTML",
+            "last_commit": "2022-04-17T14:43:41Z",
+            "owner": "Dimaslg",
+            "repo": "osintBOX",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AttifyOS",
+          "description": "Linux distro for pentesting IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97423580,
+            "language": null,
+            "last_commit": "2021-08-26T13:31:13Z",
+            "owner": "adi0x90",
+            "repo": "attifyos",
+            "stars": 1037
+          }
+        }
+      ],
+      "title": "Virtual Machines/Linux distributions"
+    },
+    {
+      "description": "Command line cheat sheet for this collection made by Coordinat Cat:\n(Under development, In progress)\nThank you for following me! @cyb_detective",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python OSINT automation examples",
+          "description": "In this repository, I will collect quick and simple code examples that use Python to automate various #osint tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 533363029,
+            "language": "Python",
+            "last_commit": "2023-09-07T12:19:45Z",
+            "owner": "cipher387",
+            "repo": "Python-osint-automation-examples",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grep for OSINT",
+          "description": "Set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 391687712,
+            "language": "Shell",
+            "last_commit": "2023-03-05T16:21:06Z",
+            "owner": "cipher387",
+            "repo": "grep_for_osint",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dorks collections list",
+          "description": "List of Github repositories and articles with list of dorks for different search engines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 408084679,
+            "language": null,
+            "last_commit": "2025-04-11T03:29:15Z",
+            "owner": "cipher387",
+            "repo": "Dorks-collections-list",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APIs for OSINT",
+          "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 422519786,
+            "language": null,
+            "last_commit": "2026-08-05T09:57:16Z",
+            "owner": "cipher387",
+            "repo": "API-s-for-OSINT",
+            "stars": 2504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Search Operators List",
+          "description": "List of the links to the docs for different services, which explain using of advanced search operators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 408874737,
+            "language": null,
+            "last_commit": "2025-02-22T02:23:18Z",
+            "owner": "cipher387",
+            "repo": "Advanced-search-operators-list",
+            "stars": 2220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code understanding tools list",
+          "description": "Tools for understanding other people's code source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 475956494,
+            "language": null,
+            "last_commit": "2023-09-07T12:03:09Z",
+            "owner": "cipher387",
+            "repo": "code-understanding-tools",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome grep",
+          "description": "List of GREP modifications and alternatives for a variety of purposes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 482655067,
+            "language": null,
+            "last_commit": "2025-12-20T20:00:10Z",
+            "owner": "cipher387",
+            "repo": "awesome-grep",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maltego transforms list",
+          "description": "list of tools that handle different data and make it usable in Maltego",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 454585714,
+            "language": null,
+            "last_commit": "2024-11-09T11:54:38Z",
+            "owner": "cipher387",
+            "repo": "maltego-transforms-list",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSINT TOOLS CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440879731,
+            "language": "Rust",
+            "last_commit": "2025-10-12T03:23:04Z",
+            "owner": "Coordinate-Cat",
+            "repo": "osint-tools-cli",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "My Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:38:58.083Z",
+    "last_updated": "2026-08-24T13:53:49.018Z",
     "original_repository": "cipher387/osint_stuff_tool_collection",
     "original_repository_id": 375081980,
     "original_repository_sha": "f525963974e7b636e5e0d156e3a636171d3ae675",
