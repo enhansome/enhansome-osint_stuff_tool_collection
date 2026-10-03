@@ -801,7 +801,7 @@
                 "open_issues": 108,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26241,
+                "stars": 26242,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -1063,7 +1063,7 @@
                 "open_issues": 66,
                 "owner": "instaloader",
                 "repo": "instaloader",
-                "stars": 13476,
+                "stars": 13477,
                 "topics": [
                   "downloader",
                   "instagram",
@@ -1524,7 +1524,7 @@
                 "open_issues": 1076,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 19917,
+                "stars": 19919,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1752,7 +1752,7 @@
             "open_issues": 1076,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19917,
+            "stars": 19919,
             "topics": [
               "danbooru",
               "deviantart",
@@ -1783,7 +1783,7 @@
             "open_issues": 108,
             "owner": "spotDL",
             "repo": "spotify-downloader",
-            "stars": 26241,
+            "stars": 26242,
             "topics": [
               "download-music",
               "hacktoberfest",
@@ -3857,7 +3857,7 @@
                 "open_issues": 18,
                 "owner": "elceef",
                 "repo": "dnstwist",
-                "stars": 5744,
+                "stars": 5745,
                 "topics": [
                   "dns",
                   "domains",
@@ -4284,7 +4284,7 @@
                 "open_issues": 0,
                 "owner": "spyboy-productions",
                 "repo": "CloakQuest3r",
-                "stars": 2269,
+                "stars": 2270,
                 "topics": [
                   "bypass-cloudflare",
                   "bypass-hostname",
@@ -5372,11 +5372,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T05:01:13Z",
-            "open_issues": 259,
+            "last_commit": "2026-10-03T05:42:50Z",
+            "open_issues": 254,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63810,
+            "stars": 63812,
             "topics": [
               "android",
               "bsd",
@@ -5445,10 +5445,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T14:40:46Z",
-            "open_issues": 189,
+            "open_issues": 190,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 37895,
+            "stars": 37899,
             "topics": [
               "bing",
               "brave",
@@ -6907,7 +6907,7 @@
             "open_issues": 118,
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 15068,
+            "stars": 15069,
             "topics": [
               "ebay",
               "email",
@@ -7409,7 +7409,7 @@
             "open_issues": 41,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19422,
+            "stars": 19421,
             "topics": [
               "dataset",
               "fake",
@@ -9298,7 +9298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:58.351Z",
+    "last_updated": "2026-10-03T06:37:23.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of several hundred online tools for OSINT",
