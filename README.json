@@ -55,7 +55,7 @@
                 "open_issues": 6,
                 "owner": "GONZOsint",
                 "repo": "geowifi",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": [
                   "geolocation",
                   "osint",
@@ -250,7 +250,7 @@
                 "id": 198357530,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T06:24:28Z",
+                "last_commit": "2026-10-21T22:57:12Z",
                 "open_issues": 330,
                 "owner": "insin",
                 "repo": "control-panel-for-twitter",
@@ -319,7 +319,7 @@
                 "open_issues": 1,
                 "owner": "egbertbouman",
                 "repo": "youtube-comment-downloader",
-                "stars": 1268,
+                "stars": 1269,
                 "topics": [
                   "data-science",
                   "data-scraper",
@@ -369,7 +369,7 @@
                 "open_issues": 34,
                 "owner": "jdepoix",
                 "repo": "youtube-transcript-api",
-                "stars": 8490,
+                "stars": 8492,
                 "topics": [
                   "asr",
                   "captions",
@@ -484,13 +484,13 @@
                 "open_issues": 86,
                 "owner": "drawrowfly",
                 "repo": "tiktok-scraper",
-                "stars": 5222,
+                "stars": 5223,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
             }
           ],
-          "description": null,
+          "description": ",\n| TikTok Scraper (Apify) | Export TikTok videos, profiles, comments and follower lists as structured rows with dates and engagement statistics. No TikTok login. Paid per result on Apify. |",
           "node_type": "group",
           "title": "TikTok"
         },
@@ -569,7 +569,7 @@
               "first_seen": "2026-08-28T12:57:48.367Z"
             }
           ],
-          "description": null,
+          "description": "| Facebook Ads Library Scraper | Collect public Meta ads with ad text, media links, advertiser details and dates. Includes reach and spend where Meta discloses them. No Facebook login; paid per ad on Apify. |",
           "node_type": "group",
           "title": "Facebook"
         },
@@ -617,11 +617,11 @@
                 "id": 46398090,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T06:06:48Z",
-                "open_issues": 1374,
+                "last_commit": "2026-10-22T05:24:55Z",
+                "open_issues": 1372,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12869,
+                "stars": 12875,
                 "topics": [
                   "agent-platform",
                   "context-management",
@@ -798,10 +798,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-09T17:12:08Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26403,
+                "stars": 26418,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -965,7 +965,7 @@
                 "open_issues": 20,
                 "owner": "xadhrit",
                 "repo": "terra",
-                "stars": 470,
+                "stars": 468,
                 "topics": [
                   "information-gathering",
                   "instagram",
@@ -1001,7 +1001,7 @@
                 "open_issues": 10,
                 "owner": "novitae",
                 "repo": "sterraxcyl",
-                "stars": 681,
+                "stars": 680,
                 "topics": [
                   "csv",
                   "excel",
@@ -1059,11 +1059,11 @@
                 "id": 61200117,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T20:07:43Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-21T21:01:20Z",
+                "open_issues": 74,
                 "owner": "instaloader",
                 "repo": "instaloader",
-                "stars": 13634,
+                "stars": 13640,
                 "topics": [
                   "downloader",
                   "instagram",
@@ -1107,7 +1107,7 @@
                 "open_issues": 80,
                 "owner": "mxrch",
                 "repo": "GHunt",
-                "stars": 19722,
+                "stars": 19726,
                 "topics": [
                   "google",
                   "hideandsec",
@@ -1521,10 +1521,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-17T14:25:14Z",
-                "open_issues": 1075,
+                "open_issues": 1078,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 20177,
+                "stars": 20187,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1609,7 +1609,7 @@
                 "open_issues": 13,
                 "owner": "socai-io",
                 "repo": "jev-social",
-                "stars": 173,
+                "stars": 174,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1717,7 +1717,7 @@
             "open_issues": 0,
             "owner": "wkentaro",
             "repo": "gdown",
-            "stars": 5464,
+            "stars": 5465,
             "topics": [
               "curl",
               "download",
@@ -1745,7 +1745,7 @@
             "open_issues": 32,
             "owner": "jsvine",
             "repo": "waybackpack",
-            "stars": 3237,
+            "stars": 3238,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:48.367Z"
@@ -1791,10 +1791,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-17T14:25:14Z",
-            "open_issues": 1075,
+            "open_issues": 1078,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 20177,
+            "stars": 20187,
             "topics": [
               "danbooru",
               "deviantart",
@@ -1822,10 +1822,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-09T17:12:08Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "spotDL",
             "repo": "spotify-downloader",
-            "stars": 26403,
+            "stars": 26418,
             "topics": [
               "download-music",
               "hacktoberfest",
@@ -1859,7 +1859,7 @@
             "open_issues": 86,
             "owner": "drawrowfly",
             "repo": "tiktok-scraper",
-            "stars": 5222,
+            "stars": 5223,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:48.367Z"
@@ -1880,7 +1880,7 @@
             "open_issues": 1,
             "owner": "egbertbouman",
             "repo": "youtube-comment-downloader",
-            "stars": 1268,
+            "stars": 1269,
             "topics": [
               "data-science",
               "data-scraper",
@@ -1907,7 +1907,7 @@
             "open_issues": 0,
             "owner": "wkentaro",
             "repo": "gdown",
-            "stars": 5464,
+            "stars": 5465,
             "topics": [
               "curl",
               "download",
@@ -1961,7 +1961,7 @@
             "open_issues": 384,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56859,
+            "stars": 56860,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2238,7 +2238,7 @@
                 "open_issues": 4,
                 "owner": "emtunc",
                 "repo": "SlackPirate",
-                "stars": 778,
+                "stars": 777,
                 "topics": [
                   "blueteam",
                   "blueteaming",
@@ -2280,7 +2280,7 @@
                 "open_issues": 246,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15382,
+                "stars": 15386,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -2407,7 +2407,7 @@
                 "open_issues": 6,
                 "owner": "IvanGlinkin",
                 "repo": "Fast-Google-Dorks-Scan",
-                "stars": 1748,
+                "stars": 1746,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2428,7 +2428,7 @@
                 "open_issues": 9,
                 "owner": "dwisiswant0",
                 "repo": "go-dork",
-                "stars": 1307,
+                "stars": 1309,
                 "topics": [
                   "bing-dorks",
                   "bugbounty",
@@ -2463,7 +2463,7 @@
                 "open_issues": 1,
                 "owner": "six2dez",
                 "repo": "reconftw",
-                "stars": 8248,
+                "stars": 8270,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -2651,7 +2651,7 @@
                 "open_issues": 14,
                 "owner": "GhostTroops",
                 "repo": "scan4all",
-                "stars": 6183,
+                "stars": 6184,
                 "topics": [
                   "0day",
                   "attack",
@@ -2788,7 +2788,7 @@
                 "open_issues": 0,
                 "owner": "six2dez",
                 "repo": "dorks_hunter",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "bugbounty",
                   "dorks",
@@ -3015,11 +3015,11 @@
                 "id": 165313961,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T06:05:46Z",
-                "open_issues": 246,
+                "last_commit": "2026-10-21T16:26:28Z",
+                "open_issues": 239,
                 "owner": "ossf",
                 "repo": "cve-bin-tool",
-                "stars": 1795,
+                "stars": 1797,
                 "topics": [
                   "cve",
                   "cvss",
@@ -3051,11 +3051,11 @@
                 "id": 699502691,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-21T01:21:21Z",
+                "last_commit": "2026-10-21T08:56:41Z",
                 "open_issues": 11,
                 "owner": "projectdiscovery",
                 "repo": "vulnx",
-                "stars": 2689,
+                "stars": 2692,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3250,7 +3250,7 @@
                 "id": 442430,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-21T05:40:06Z",
+                "last_commit": "2026-10-22T04:11:48Z",
                 "open_issues": 6,
                 "owner": "jhy",
                 "repo": "jsoup",
@@ -3480,7 +3480,7 @@
                 "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1333,
+                "stars": 1334,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3858,7 +3858,7 @@
                 "open_issues": 1,
                 "owner": "SpiderLabs",
                 "repo": "HostHunter",
-                "stars": 1174,
+                "stars": 1175,
                 "topics": [
                   "bugbounty",
                   "hacking",
@@ -3899,7 +3899,7 @@
                 "open_issues": 20,
                 "owner": "elceef",
                 "repo": "dnstwist",
-                "stars": 5762,
+                "stars": 5764,
                 "topics": [
                   "dns",
                   "domains",
@@ -4219,7 +4219,7 @@
                 "open_issues": 0,
                 "owner": "N0tA1dan",
                 "repo": "Crab",
-                "stars": 26,
+                "stars": 25,
                 "topics": [
                   "crab",
                   "hack",
@@ -4326,7 +4326,7 @@
                 "open_issues": 0,
                 "owner": "spyboy-productions",
                 "repo": "CloakQuest3r",
-                "stars": 2279,
+                "stars": 2280,
                 "topics": [
                   "bypass-cloudflare",
                   "bypass-hostname",
@@ -4438,7 +4438,7 @@
                 "open_issues": 16,
                 "owner": "lijiejie",
                 "repo": "subDomainsBrute",
-                "stars": 3623,
+                "stars": 3622,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -4493,7 +4493,7 @@
                 "open_issues": 0,
                 "owner": "alex14324",
                 "repo": "Turbolist3r",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -4588,7 +4588,7 @@
                 "open_issues": 33,
                 "owner": "punk-security",
                 "repo": "dnsReaper",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -4605,7 +4605,7 @@
                 "id": 616826955,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-20T19:37:00Z",
+                "last_commit": "2026-10-21T08:56:19Z",
                 "open_issues": 8,
                 "owner": "projectdiscovery",
                 "repo": "alterx",
@@ -4667,7 +4667,7 @@
                 "open_issues": 10,
                 "owner": "mrh0wl",
                 "repo": "Cloudmare",
-                "stars": 1784,
+                "stars": 1785,
                 "topics": [
                   "bypass",
                   "cloud-proxy",
@@ -4731,7 +4731,7 @@
                 "open_issues": 15,
                 "owner": "Nekmo",
                 "repo": "dirhunt",
-                "stars": 2009,
+                "stars": 2008,
                 "topics": [
                   "crawler",
                   "dirscanner",
@@ -4789,7 +4789,7 @@
                 "open_issues": 104,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22646,
+                "stars": 22658,
                 "topics": [
                   "annotations",
                   "archive",
@@ -4850,7 +4850,7 @@
                 "open_issues": 48,
                 "owner": "m4ll0k",
                 "repo": "SecretFinder",
-                "stars": 2534,
+                "stars": 2535,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5012,7 +5012,7 @@
                 "open_issues": 25,
                 "owner": "GuidoBartoli",
                 "repo": "sherloq",
-                "stars": 3228,
+                "stars": 3231,
                 "topics": [
                   "digital-image-forensics",
                   "forensic-image-analysis",
@@ -5147,10 +5147,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-25T11:12:50Z",
-                "open_issues": 832,
+                "open_issues": 833,
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56843,
+                "stars": 56845,
                 "topics": [
                   "face-detection",
                   "face-recognition",
@@ -5187,7 +5187,7 @@
             "open_issues": 0,
             "owner": "champmq",
             "repo": "TheScrapper",
-            "stars": 377,
+            "stars": 376,
             "topics": [
               "contact",
               "contact-finder",
@@ -5300,10 +5300,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-11T08:03:31Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3722,
+            "stars": 3723,
             "topics": [
               "api",
               "cats",
@@ -5362,7 +5362,7 @@
             "open_issues": 461,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97915,
+            "stars": 97921,
             "topics": [
               "python",
               "shell"
@@ -5386,7 +5386,7 @@
             "open_issues": 149,
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41823,
+            "stars": 41822,
             "topics": [
               "cheatsheet",
               "cli",
@@ -5414,11 +5414,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T06:00:31Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-21T18:48:03Z",
+            "open_issues": 288,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 64008,
+            "stars": 64011,
             "topics": [
               "android",
               "bsd",
@@ -5487,10 +5487,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-19T21:33:04Z",
-            "open_issues": 203,
+            "open_issues": 202,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 38674,
+            "stars": 38718,
             "topics": [
               "bing",
               "brave",
@@ -5660,7 +5660,7 @@
                 "open_issues": 18,
                 "owner": "megadose",
                 "repo": "OnionSearch",
-                "stars": 1823,
+                "stars": 1825,
                 "topics": [
                   "ahmia",
                   "deeplink",
@@ -5790,7 +5790,7 @@
             "open_issues": 3,
             "owner": "jarun",
             "repo": "googler",
-            "stars": 6208,
+            "stars": 6209,
             "topics": [
               "cli",
               "command-line",
@@ -5819,7 +5819,7 @@
             "id": 98684875,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T03:13:22Z",
+            "last_commit": "2026-10-22T00:37:40Z",
             "open_issues": 37,
             "owner": "infokiller",
             "repo": "web-search-navigator",
@@ -6066,7 +6066,7 @@
                 "open_issues": 32,
                 "owner": "jsvine",
                 "repo": "waybackpack",
-                "stars": 3237,
+                "stars": 3238,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -6175,7 +6175,7 @@
                 "open_issues": 51,
                 "owner": "MiniGlome",
                 "repo": "Archive.org-Downloader",
-                "stars": 1363,
+                "stars": 1364,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -6196,7 +6196,7 @@
                 "open_issues": 4,
                 "owner": "xnl-h4ck3r",
                 "repo": "waymore",
-                "stars": 2772,
+                "stars": 2773,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -6287,7 +6287,7 @@
                 "open_issues": 29,
                 "owner": "lc",
                 "repo": "gau",
-                "stars": 5129,
+                "stars": 5131,
                 "topics": [
                   "alienvault",
                   "gau",
@@ -6314,7 +6314,7 @@
                 "open_issues": 0,
                 "owner": "GeiserX",
                 "repo": "Wayback-Archive",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "archive",
                   "archive-org",
@@ -6683,7 +6683,7 @@
             "open_issues": 40,
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5352,
+            "stars": 5353,
             "topics": [
               "breach",
               "breach-compilation",
@@ -6803,7 +6803,7 @@
             "open_issues": 9,
             "owner": "N0rz3",
             "repo": "Zehef",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "account-checker",
               "breach-check",
@@ -6836,7 +6836,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-09-30T04:43:12Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "thewhiteh4t",
             "repo": "nexfil",
             "stars": 2642,
@@ -6897,7 +6897,7 @@
             "open_issues": 0,
             "owner": "arxhr007",
             "repo": "Aliens_eye",
-            "stars": 4441,
+            "stars": 4443,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -7003,7 +7003,7 @@
             "open_issues": 118,
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 15274,
+            "stars": 15309,
             "topics": [
               "ebay",
               "email",
@@ -7140,7 +7140,7 @@
             "open_issues": 17,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 9203,
+            "stars": 9215,
             "topics": [
               "cybersecurity",
               "osint",
@@ -7200,7 +7200,7 @@
             "open_issues": 11,
             "owner": "s41r4j",
             "repo": "phomber",
-            "stars": 613,
+            "stars": 611,
             "topics": [
               "cli",
               "cybersecurity",
@@ -7294,7 +7294,7 @@
             "open_issues": 15,
             "owner": "N0rz3",
             "repo": "Phunter",
-            "stars": 1225,
+            "stars": 1226,
             "topics": [
               "osint",
               "osint-tool",
@@ -7369,7 +7369,7 @@
             "open_issues": 1,
             "owner": "scottmartinanderson",
             "repo": "clearfront",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -7428,7 +7428,7 @@
             "open_issues": 27,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24343,
+            "stars": 24349,
             "topics": [
               "analysis",
               "analyzer",
@@ -7525,7 +7525,7 @@
             "open_issues": 1,
             "owner": "iperov",
             "repo": "DeepFaceLive",
-            "stars": 31029,
+            "stars": 31026,
             "topics": [
               "deepfake",
               "faceswap",
@@ -7585,7 +7585,7 @@
             "open_issues": 48,
             "owner": "joke2k",
             "repo": "faker",
-            "stars": 19454,
+            "stars": 19455,
             "topics": [
               "dataset",
               "fake",
@@ -7711,7 +7711,7 @@
             "open_issues": 38,
             "owner": "everywall",
             "repo": "ladder",
-            "stars": 9189,
+            "stars": 9191,
             "topics": [
               "bypass",
               "cors",
@@ -7739,7 +7739,7 @@
             "open_issues": 18,
             "owner": "swanandx",
             "repo": "lemmeknow",
-            "stars": 1128,
+            "stars": 1129,
             "topics": [
               "cli",
               "cryptography",
@@ -7881,7 +7881,7 @@
                 "open_issues": 3,
                 "owner": "bee-san",
                 "repo": "pyWhat",
-                "stars": 7335,
+                "stars": 7334,
                 "topics": [
                   "cyber",
                   "cybersecurity",
@@ -7993,7 +7993,7 @@
             "open_issues": 132,
             "owner": "quodlibet",
             "repo": "mutagen",
-            "stars": 1974,
+            "stars": 1975,
             "topics": [
               "apev2",
               "flac",
@@ -8030,10 +8030,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-17T23:37:28Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "facundoolano",
             "repo": "google-play-scraper",
-            "stars": 2985,
+            "stars": 2986,
             "topics": [
               "api",
               "crawler",
@@ -8087,7 +8087,7 @@
             "open_issues": 1,
             "owner": "ritchiemwewa",
             "repo": "occli",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "corpint",
               "open-corporates",
@@ -8122,7 +8122,7 @@
                 "open_issues": 8,
                 "owner": "scrapehero-code",
                 "repo": "amazon-scraper",
-                "stars": 445,
+                "stars": 444,
                 "topics": [
                   "amazon-scraper",
                   "page-scraper",
@@ -8190,7 +8190,7 @@
             "open_issues": 45,
             "owner": "Lucksi",
             "repo": "Mr.Holmes",
-            "stars": 4314,
+            "stars": 4318,
             "topics": [
               "geolocation",
               "information-gathering",
@@ -8320,7 +8320,7 @@
             "open_issues": 29,
             "owner": "bhavsec",
             "repo": "reconspider",
-            "stars": 2836,
+            "stars": 2837,
             "topics": [
               "automated",
               "cybersecurity",
@@ -8376,7 +8376,7 @@
             "open_issues": 1,
             "owner": "termuxhackers-id",
             "repo": "SIGIT",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "dns-checker",
               "email-checker",
@@ -8473,7 +8473,7 @@
             "open_issues": 2,
             "owner": "j3ssie",
             "repo": "metabigor",
-            "stars": 1857,
+            "stars": 1856,
             "topics": [
               "asn",
               "bug-bounty",
@@ -8507,7 +8507,7 @@
             "id": 13932470,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-20T22:56:49Z",
+            "last_commit": "2026-10-22T03:17:57Z",
             "open_issues": 0,
             "owner": "leebaird",
             "repo": "discover",
@@ -8595,7 +8595,7 @@
             "open_issues": 3,
             "owner": "AzizKpln",
             "repo": "Gokboru_Intel",
-            "stars": 2118,
+            "stars": 2119,
             "topics": [
               "advanced",
               "advanced-osint-tool",
@@ -8787,7 +8787,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 445,
+            "stars": 444,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -8824,7 +8824,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-21T03:34:40Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "ivre",
             "repo": "ivre",
             "stars": 4181,
@@ -8992,11 +8992,11 @@
             "id": 468957086,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T02:41:22Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-22T02:42:00Z",
+            "open_issues": 36,
             "owner": "blacklanternsecurity",
             "repo": "bbot",
-            "stars": 10727,
+            "stars": 10728,
             "topics": [
               "asm",
               "attack-surface-management",
@@ -9235,7 +9235,7 @@
             "open_issues": 0,
             "owner": "Dimaslg",
             "repo": "osintBOX",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "bookmarks",
               "osint",
@@ -9345,7 +9345,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2771,
+            "stars": 2773,
             "topics": [
               "awesome",
               "awesome-list",
@@ -9373,7 +9373,7 @@
             "open_issues": 5,
             "owner": "cipher387",
             "repo": "API-s-for-OSINT",
-            "stars": 2607,
+            "stars": 2608,
             "topics": [
               "api",
               "api-rest",
@@ -9402,7 +9402,7 @@
             "open_issues": 1,
             "owner": "cipher387",
             "repo": "Advanced-search-operators-list",
-            "stars": 2216,
+            "stars": 2213,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:48.367Z"
@@ -9515,7 +9515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:07:03.152Z",
+    "last_updated": "2026-10-22T06:10:09.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of several hundred online tools for OSINT",
@@ -9523,11 +9523,11 @@
       "id": 375081980,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-20T11:52:19Z",
-      "open_issues": 36,
+      "last_commit": "2026-10-21T12:07:18Z",
+      "open_issues": 34,
       "owner": "cipher387",
       "repo": "osint_stuff_tool_collection",
-      "stars": 8968,
+      "stars": 8972,
       "topics": [
         "awesome",
         "awesome-list",
@@ -9541,7 +9541,7 @@
         "toolset"
       ]
     },
-    "original_repository_sha": "9e20bf0de8a6041e1718a2d6cf47f2c9f2b938bd",
+    "original_repository_sha": "245945d632b732d6959636c97d6f2f138f6cb47b",
     "enhanced_repository": "enhansome/enhansome-osint_stuff_tool_collection",
     "enhanced_repository_description": null,
     "title": "Awesome Maps, Geolocation and Transport with stars"
