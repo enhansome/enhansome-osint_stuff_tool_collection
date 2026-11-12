@@ -66,7 +66,7 @@
                 "id": 1314845795,
                 "language": "HTML",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T07:45:07Z",
+                "last_commit": "2026-11-12T07:45:06Z",
                 "open_issues": 0,
                 "owner": "mcasrom",
                 "repo": "nearme-osint",
@@ -132,7 +132,7 @@
                 "open_issues": 6,
                 "owner": "GONZOsint",
                 "repo": "geowifi",
-                "stars": 1517,
+                "stars": 1519,
                 "topics": [
                   "geolocation",
                   "osint",
@@ -321,11 +321,11 @@
                 "id": 198357530,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T23:11:37Z",
-                "open_issues": 317,
+                "last_commit": "2026-11-12T07:13:34Z",
+                "open_issues": 319,
                 "owner": "insin",
                 "repo": "control-panel-for-twitter",
-                "stars": 2669,
+                "stars": 2671,
                 "topics": [
                   "chrome-extension",
                   "edge-extension",
@@ -392,7 +392,7 @@
                     "open_issues": 35,
                     "owner": "jdepoix",
                     "repo": "youtube-transcript-api",
-                    "stars": 8594,
+                    "stars": 8598,
                     "topics": [
                       "asr",
                       "captions",
@@ -459,7 +459,7 @@
                     "open_issues": 1,
                     "owner": "egbertbouman",
                     "repo": "youtube-comment-downloader",
-                    "stars": 1274,
+                    "stars": 1275,
                     "topics": [
                       "data-science",
                       "data-scraper",
@@ -655,7 +655,7 @@
                 "open_issues": 84,
                 "owner": "drawrowfly",
                 "repo": "tiktok-scraper",
-                "stars": 5254,
+                "stars": 5255,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -683,7 +683,7 @@
                 "open_issues": 0,
                 "owner": "C3n7ral051nt4g3ncy",
                 "repo": "Prot1ntelligence",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "cybersecurity",
                   "hacking",
@@ -762,7 +762,7 @@
                 "open_issues": 12,
                 "owner": "m8sec",
                 "repo": "CrossLinked",
-                "stars": 1642,
+                "stars": 1644,
                 "topics": [
                   "enumeration",
                   "linkedin-scraper",
@@ -788,11 +788,11 @@
                 "id": 46398090,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T07:29:42Z",
-                "open_issues": 1460,
+                "last_commit": "2026-11-12T08:24:09Z",
+                "open_issues": 1416,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12977,
+                "stars": 12978,
                 "topics": [
                   "agent-platform",
                   "context-management",
@@ -972,7 +972,7 @@
                 "open_issues": 94,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26780,
+                "stars": 26790,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -1172,7 +1172,7 @@
                 "open_issues": 10,
                 "owner": "novitae",
                 "repo": "sterraxcyl",
-                "stars": 681,
+                "stars": 682,
                 "topics": [
                   "csv",
                   "excel",
@@ -1234,7 +1234,7 @@
                 "open_issues": 64,
                 "owner": "instaloader",
                 "repo": "instaloader",
-                "stars": 13853,
+                "stars": 13863,
                 "topics": [
                   "downloader",
                   "instagram",
@@ -1278,7 +1278,7 @@
                 "open_issues": 78,
                 "owner": "mxrch",
                 "repo": "GHunt",
-                "stars": 19822,
+                "stars": 19834,
                 "topics": [
                   "google",
                   "hideandsec",
@@ -1370,7 +1370,7 @@
                 "open_issues": 4,
                 "owner": "s0md3v",
                 "repo": "Zen",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "github",
                   "github-recon",
@@ -1618,7 +1618,7 @@
                 "open_issues": 17,
                 "owner": "nyxgeek",
                 "repo": "onedrive_user_enum",
-                "stars": 775,
+                "stars": 776,
                 "topics": [
                   "azure",
                   "enumeration",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-31T11:34:24Z",
-                "open_issues": 1089,
+                "open_issues": 1092,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 20469,
+                "stars": 20479,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1723,7 +1723,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-11-05T21:22:30Z",
-                "open_issues": 81,
+                "open_issues": 80,
                 "owner": "xenova",
                 "repo": "chat-downloader",
                 "stars": 1199,
@@ -1780,7 +1780,7 @@
                 "open_issues": 13,
                 "owner": "socai-io",
                 "repo": "jev-social",
-                "stars": 210,
+                "stars": 212,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1905,7 +1905,7 @@
                 "open_issues": 33,
                 "owner": "jsvine",
                 "repo": "waybackpack",
-                "stars": 3242,
+                "stars": 3241,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -1923,7 +1923,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-11-05T21:22:30Z",
-                "open_issues": 81,
+                "open_issues": 80,
                 "owner": "xenova",
                 "repo": "chat-downloader",
                 "stars": 1199,
@@ -1951,10 +1951,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-31T11:34:24Z",
-                "open_issues": 1089,
+                "open_issues": 1092,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 20469,
+                "stars": 20479,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1985,7 +1985,7 @@
                 "open_issues": 94,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26780,
+                "stars": 26790,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -2019,7 +2019,7 @@
                 "open_issues": 84,
                 "owner": "drawrowfly",
                 "repo": "tiktok-scraper",
-                "stars": 5254,
+                "stars": 5255,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2040,7 +2040,7 @@
                 "open_issues": 1,
                 "owner": "egbertbouman",
                 "repo": "youtube-comment-downloader",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "data-science",
                   "data-scraper",
@@ -2121,7 +2121,7 @@
                 "open_issues": 382,
                 "owner": "soimort",
                 "repo": "you-get",
-                "stars": 56861,
+                "stars": 56856,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-11-05T21:22:30Z",
-                "open_issues": 81,
+                "open_issues": 80,
                 "owner": "xenova",
                 "repo": "chat-downloader",
                 "stars": 1199,
@@ -2201,164 +2201,377 @@
               "first_seen": "2026-08-28T12:57:48.367Z"
             }
           ],
-          "description": "Downloaders\nMessengers",
+          "description": "Downloaders\n| | | | | | | | | | | |",
           "node_type": "group",
           "title": "Universal"
-        },
+        }
+      ],
+      "title": "Most important categories"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Telegram Message Analyzer",
-              "description": "Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Process the exported Telegram chat history .html and generate a report message count by date, and most used words.",
-                "homepage": null,
-                "id": 163685686,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-09-01T13:51:05Z",
-                "open_issues": 0,
-                "owner": "zqtay",
-                "repo": "Telegram-Message-Analyzer",
-                "stars": 63,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegram Nearby Map",
+                  "description": "Discover the location of nearby Telegram users on OpenStreetMap",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Discover the location of nearby Telegram users 📡🌍",
+                    "homepage": null,
+                    "id": 329705041,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-02-17T15:50:41Z",
+                    "open_issues": 10,
+                    "owner": "tejado",
+                    "repo": "telegram-nearby-map",
+                    "stars": 1198,
+                    "topics": [
+                      "discover",
+                      "gps",
+                      "locate",
+                      "location",
+                      "map",
+                      "nearby",
+                      "node",
+                      "nodejs",
+                      "openlayers",
+                      "osm",
+                      "privacy",
+                      "tdlib",
+                      "telegram",
+                      "trilateration"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Maps"
             },
             {
-              "node_type": "item",
-              "title": "Telegram Nearby Map",
-              "description": "Discover the location of nearby Telegram users on OpenStreetMap",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Discover the location of nearby Telegram users 📡🌍",
-                "homepage": null,
-                "id": 329705041,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2024-02-17T15:50:41Z",
-                "open_issues": 10,
-                "owner": "tejado",
-                "repo": "telegram-nearby-map",
-                "stars": 1197,
-                "topics": [
-                  "discover",
-                  "gps",
-                  "locate",
-                  "location",
-                  "map",
-                  "nearby",
-                  "node",
-                  "nodejs",
-                  "openlayers",
-                  "osm",
-                  "privacy",
-                  "tdlib",
-                  "telegram",
-                  "trilateration"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ">_ Telepathy",
+                  "description": "OSINT toolkit for investigating Telegram chats.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.",
+                    "homepage": null,
+                    "id": 448953965,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-13T06:26:37Z",
+                    "open_issues": 51,
+                    "owner": "prose-intelligence-ltd",
+                    "repo": "Telepathy-Community",
+                    "stars": 1257,
+                    "topics": [
+                      "owner-al"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telescan",
+                  "description": "Search users in groups (and in which groups is the user) by id, username or phone number",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 172563770,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-01-31T12:14:38Z",
+                    "open_issues": 0,
+                    "owner": "pielco11",
+                    "repo": "telescan",
+                    "stars": 248,
+                    "topics": [
+                      "osint",
+                      "osint-python",
+                      "osinttool",
+                      "telegram",
+                      "telegram-api"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ TeleTracker",
+                  "description": "Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.",
+                    "homepage": null,
+                    "id": 743311822,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-06-15T18:21:07Z",
+                    "open_issues": 6,
+                    "owner": "tsale",
+                    "repo": "TeleTracker",
+                    "stars": 543,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ TOSINT (Telegram OSINT)",
+                  "description": "A tool for collecting and organizing information from Telegram bots and channels.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.",
+                    "homepage": null,
+                    "id": 389592303,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-10T21:10:15Z",
+                    "open_issues": 0,
+                    "owner": "drego85",
+                    "repo": "tosint",
+                    "stars": 880,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-30T07:16:20.398Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegram Phone Number Checker",
+                  "description": "Python tool/script to check if phone numbers are connected to Telegram accounts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Check if phone numbers are connected to Telegram accounts.",
+                    "homepage": "https://pypi.org/project/telegram-phone-number-checker/",
+                    "id": 339702328,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-17T11:54:14Z",
+                    "open_issues": 4,
+                    "owner": "bellingcat",
+                    "repo": "telegram-phone-number-checker",
+                    "stars": 1905,
+                    "topics": [
+                      "command-line",
+                      "open-source-research",
+                      "phone-number",
+                      "python",
+                      "telegram"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ TelegramOSINTPolo",
+                  "description": "Download posts from Telegram feeds and save them to text files for later OSINT AI use",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The app is used to download posts from Telegram feeds and save them to text files for later OSINT AI use",
+                    "homepage": "https://aryoconcent.pl/nowe-narzedzie-w-arsenale-telegram-post-downloader-dla-osint-owcow-i-nie-tylko/",
+                    "id": 942581766,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-01T11:57:52Z",
+                    "open_issues": 0,
+                    "owner": "Ironship",
+                    "repo": "TelegramOSINTPolo",
+                    "stars": 58,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegram similar channels)",
+                  "description": "Telegram similar channels search tool (CLI + Maltego)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Telegram similar channels search tool (CLI + Maltego)",
+                    "homepage": null,
+                    "id": 728785393,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-04-10T10:58:01Z",
+                    "open_issues": 1,
+                    "owner": "SocialLinks-IO",
+                    "repo": "telegram-similar-channels",
+                    "stars": 202,
+                    "topics": [
+                      "channel-analysis",
+                      "maltego",
+                      "maltego-transformations",
+                      "maltego-transforms",
+                      "osint",
+                      "osint-python",
+                      "osint-tool",
+                      "python",
+                      "socmint",
+                      "telegram",
+                      "telegram-channels",
+                      "telegram-investigation",
+                      "telegram-osint",
+                      "telegram-tools"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegram Tracker",
+                  "description": "Telegram Tracker collects public Telegram channels through Telegram's API and turns the collected files into a messages dataset and a channel network.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Telegram Tracker collects public Telegram channels through Telegram's API and turns the collected files into a messages dataset and a channel network.",
+                    "homepage": null,
+                    "id": 478432944,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-11T18:32:28Z",
+                    "open_issues": 4,
+                    "owner": "estebanpdl",
+                    "repo": "telegram-tracker",
+                    "stars": 387,
+                    "topics": [
+                      "command-line-tool",
+                      "data-collection",
+                      "gephi",
+                      "open-source",
+                      "osint",
+                      "osint-python",
+                      "python",
+                      "telegram-api"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telerecon",
+                  "description": "A reconnaissance framework for researching and investigating Telegram.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A reconnaissance framework for researching and investigating Telegram. ",
+                    "homepage": null,
+                    "id": 685281926,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-07-11T19:35:52Z",
+                    "open_issues": 6,
+                    "owner": "sockysec",
+                    "repo": "Telerecon",
+                    "stars": 1337,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegraphite",
+                  "description": "A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A fast and reliable Telegram channel scraper that fetches posts and exports them to JSON.",
+                    "homepage": null,
+                    "id": 964909544,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-08-11T18:11:15Z",
+                    "open_issues": 1,
+                    "owner": "hamodywe",
+                    "repo": "telegram-scraper-TeleGraphite",
+                    "stars": 291,
+                    "topics": [
+                      "chanels",
+                      "telegram",
+                      "telegram-channel-scraper",
+                      "telegram-json",
+                      "telegram-scrape-channels",
+                      "telegram-scraper"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ 4CAT",
+                  "description": "Capture and Analysis Toolkit provides modular data capture & analysis for a variety of social media platforms.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The 4CAT Capture and Analysis Toolkit provides modular data capture & analysis for a variety of social media platforms.",
+                    "homepage": "https://4cat.nl",
+                    "id": 150257402,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-12T03:32:03Z",
+                    "open_issues": 77,
+                    "owner": "digitalmethodsinitiative",
+                    "repo": "4cat",
+                    "stars": 429,
+                    "topics": [
+                      "digitalmethods",
+                      "python",
+                      "scraping",
+                      "social-media",
+                      "textanalysis"
+                    ]
+                  },
+                  "first_seen": "2026-11-12T08:25:08.721Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Command line/self-hosted tools"
             },
             {
-              "node_type": "item",
-              "title": "Telescan",
-              "description": "search users in groups (and in which groups is the user) by id, username or phone number (if it's in your contacts)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 172563770,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-01-31T12:14:38Z",
-                "open_issues": 0,
-                "owner": "pielco11",
-                "repo": "telescan",
-                "stars": 248,
-                "topics": [
-                  "osint",
-                  "osint-python",
-                  "osinttool",
-                  "telegram",
-                  "telegram-api"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Telescan",
-              "description": "search users in groups (and in which groups is the user) by id, username or phone number",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 172563770,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-01-31T12:14:38Z",
-                "open_issues": 0,
-                "owner": "pielco11",
-                "repo": "telescan",
-                "stars": 248,
-                "topics": [
-                  "osint",
-                  "osint-python",
-                  "osinttool",
-                  "telegram",
-                  "telegram-api"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TeleTracker",
-              "description": "Simple #Python scripts for working with Telegram API: send message to a channel, download content from channel and gathering info about channel or chat.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.",
-                "homepage": null,
-                "id": 743311822,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-06-15T18:21:07Z",
-                "open_issues": 6,
-                "owner": "tsale",
-                "repo": "TeleTracker",
-                "stars": 543,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TOSINT (Telegram OSINT)",
-              "description": "A tool for collecting and organizing information from Telegram bots and channels.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tosint is a Telegram OSINT tool that extracts actionable intelligence from bot tokens and chat IDs for security investigations.",
-                "homepage": null,
-                "id": 389592303,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-10T21:10:15Z",
-                "open_issues": 0,
-                "owner": "drego85",
-                "repo": "tosint",
-                "stars": 880,
-                "topics": []
-              },
-              "first_seen": "2026-10-30T07:16:20.398Z"
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ">_ Telegram Message Analyzer",
+                  "description": "Export #Telegram chat (with Windows version of Telegram app) and get detailed analyze of it (message count, average message count per day, word frequency etc)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Process the exported Telegram chat history .html and generate a report message count by date, and most used words.",
+                    "homepage": null,
+                    "id": 163685686,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-09-01T13:51:05Z",
+                    "open_issues": 0,
+                    "owner": "zqtay",
+                    "repo": "Telegram-Message-Analyzer",
+                    "stars": 63,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Chats analyze"
             }
           ],
           "description": null,
@@ -2450,11 +2663,11 @@
                 "id": 140457254,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T06:37:04Z",
+                "last_commit": "2026-11-12T06:23:11Z",
                 "open_issues": 250,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15499,
+                "stars": 15507,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -2489,7 +2702,7 @@
                 "open_issues": 2,
                 "owner": "Zarcolio",
                 "repo": "sitedorks",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "baidu",
                   "bing",
@@ -2581,7 +2794,7 @@
                 "open_issues": 6,
                 "owner": "IvanGlinkin",
                 "repo": "Fast-Google-Dorks-Scan",
-                "stars": 1745,
+                "stars": 1746,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2602,7 +2815,7 @@
                 "open_issues": 9,
                 "owner": "dwisiswant0",
                 "repo": "go-dork",
-                "stars": 1310,
+                "stars": 1311,
                 "topics": [
                   "bing-dorks",
                   "bugbounty",
@@ -2637,7 +2850,7 @@
                 "open_issues": 5,
                 "owner": "six2dez",
                 "repo": "reconftw",
-                "stars": 8358,
+                "stars": 8362,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -2794,7 +3007,7 @@
                 "open_issues": 0,
                 "owner": "nerrorsec",
                 "repo": "Google-Dorker",
-                "stars": 230,
+                "stars": 231,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -2825,7 +3038,7 @@
                 "open_issues": 14,
                 "owner": "GhostTroops",
                 "repo": "scan4all",
-                "stars": 6193,
+                "stars": 6195,
                 "topics": [
                   "0day",
                   "attack",
@@ -2938,7 +3151,7 @@
                 "open_issues": 1,
                 "owner": "AhmedOsamaMath",
                 "repo": "sqli-dorks-generator",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "dorks",
                   "sql-injection"
@@ -2962,7 +3175,7 @@
                 "open_issues": 0,
                 "owner": "six2dez",
                 "repo": "dorks_hunter",
-                "stars": 349,
+                "stars": 350,
                 "topics": [
                   "bugbounty",
                   "dorks",
@@ -3013,7 +3226,7 @@
                 "open_issues": 4,
                 "owner": "Drew-Alleman",
                 "repo": "DataSurgeon",
-                "stars": 909,
+                "stars": 910,
                 "topics": [
                   "bug-bounty",
                   "ctf-tools",
@@ -3076,7 +3289,7 @@
                 "open_issues": 3,
                 "owner": "musana",
                 "repo": "fuzzuli",
-                "stars": 949,
+                "stars": 950,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3097,7 +3310,7 @@
                 "open_issues": 0,
                 "owner": "hueristiq",
                 "repo": "xurlfind3r",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "bug-bounty",
                   "bug-bounty-tools",
@@ -3189,8 +3402,8 @@
                 "id": 165313961,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T06:03:27Z",
-                "open_issues": 259,
+                "last_commit": "2026-11-11T14:45:10Z",
+                "open_issues": 261,
                 "owner": "ossf",
                 "repo": "cve-bin-tool",
                 "stars": 1809,
@@ -3229,7 +3442,7 @@
                 "open_issues": 4,
                 "owner": "projectdiscovery",
                 "repo": "vulnx",
-                "stars": 2738,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3343,7 +3556,7 @@
                 "open_issues": 10,
                 "owner": "dmdhrumilmistry",
                 "repo": "pyhtools",
-                "stars": 663,
+                "stars": 665,
                 "topics": [
                   "apihacking",
                   "dmdhrumilmistry",
@@ -3387,7 +3600,7 @@
                 "open_issues": 10,
                 "owner": "ndelphit",
                 "repo": "apkurlgrep",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "apk",
                   "endpoints",
@@ -3546,8 +3759,8 @@
                 "id": 442430,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-04T23:23:50Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-11T23:22:26Z",
+                "open_issues": 11,
                 "owner": "jhy",
                 "repo": "jsoup",
                 "stars": 11415,
@@ -3701,7 +3914,7 @@
                 "open_issues": 4,
                 "owner": "z0m31en7",
                 "repo": "Uscrapper",
-                "stars": 800,
+                "stars": 801,
                 "topics": [
                   "darkweb",
                   "darkweb-crawler",
@@ -3765,11 +3978,11 @@
                 "id": 82530909,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-10T00:40:31Z",
+                "last_commit": "2026-11-11T22:54:58Z",
                 "open_issues": 50,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15601,
+                "stars": 15602,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -3803,7 +4016,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2024-03-21T03:45:48Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "laramies",
                 "repo": "metagoofil",
                 "stars": 1362,
@@ -3827,7 +4040,7 @@
                 "open_issues": 0,
                 "owner": "ferreiraklet",
                 "repo": "Aline",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3848,7 +4061,7 @@
                 "open_issues": 0,
                 "owner": "loseys",
                 "repo": "Goblyn",
-                "stars": 75,
+                "stars": 76,
                 "topics": [
                   "blueteam",
                   "cybersecurity",
@@ -3888,7 +4101,7 @@
                 "open_issues": 0,
                 "owner": "dievus",
                 "repo": "msdorkdump",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -4036,7 +4249,7 @@
                 "open_issues": 9,
                 "owner": "BishopFox",
                 "repo": "jsluice",
-                "stars": 1972,
+                "stars": 1973,
                 "topics": [
                   "javascript",
                   "security"
@@ -4088,7 +4301,7 @@
                 "open_issues": 5,
                 "owner": "devanshbatham",
                 "repo": "FavFreak",
-                "stars": 1319,
+                "stars": 1320,
                 "topics": [
                   "bugbounty",
                   "bughunting",
@@ -4503,7 +4716,7 @@
                 "open_issues": 1,
                 "owner": "SpiderLabs",
                 "repo": "HostHunter",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": [
                   "bugbounty",
                   "hacking",
@@ -4544,7 +4757,7 @@
                 "open_issues": 21,
                 "owner": "elceef",
                 "repo": "dnstwist",
-                "stars": 5780,
+                "stars": 5779,
                 "topics": [
                   "dns",
                   "domains",
@@ -4687,7 +4900,7 @@
                 "open_issues": 1,
                 "owner": "atenreiro",
                 "repo": "opensquat",
-                "stars": 991,
+                "stars": 993,
                 "topics": [
                   "blue-team",
                   "cybersecurity",
@@ -4971,7 +5184,7 @@
                 "open_issues": 0,
                 "owner": "spyboy-productions",
                 "repo": "CloakQuest3r",
-                "stars": 2290,
+                "stars": 2291,
                 "topics": [
                   "bypass-cloudflare",
                   "bypass-hostname",
@@ -5261,7 +5474,7 @@
                 "open_issues": 34,
                 "owner": "punk-security",
                 "repo": "dnsReaper",
-                "stars": 2227,
+                "stars": 2226,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5282,7 +5495,7 @@
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "alterx",
-                "stars": 1019,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5494,10 +5707,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-10T21:10:07Z",
-                "open_issues": 96,
+                "open_issues": 95,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22886,
+                "stars": 22892,
                 "topics": [
                   "annotations",
                   "archive",
@@ -5558,7 +5771,7 @@
                 "open_issues": 48,
                 "owner": "m4ll0k",
                 "repo": "SecretFinder",
-                "stars": 2542,
+                "stars": 2541,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5579,7 +5792,7 @@
                 "open_issues": 53,
                 "owner": "GerbenJavado",
                 "repo": "LinkFinder",
-                "stars": 4472,
+                "stars": 4474,
                 "topics": [
                   "endpoints",
                   "infosec"
@@ -5642,11 +5855,11 @@
                 "id": 72343657,
                 "language": "TypeScript",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-09T12:48:50Z",
-                "open_issues": 166,
+                "last_commit": "2026-11-12T02:05:58Z",
+                "open_issues": 171,
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 45915,
+                "stars": 45953,
                 "topics": [
                   "codec",
                   "cut",
@@ -5668,7 +5881,7 @@
           "title": "Video editing and analyze"
         }
       ],
-      "title": "Most important categories"
+      "title": "Messengers"
     },
     {
       "description": null,
@@ -5752,7 +5965,7 @@
                 "open_issues": 79,
                 "owner": "dessant",
                 "repo": "search-by-image",
-                "stars": 3820,
+                "stars": 3821,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -5784,7 +5997,7 @@
                 "open_issues": 13,
                 "owner": "deepfates",
                 "repo": "memery",
-                "stars": 583,
+                "stars": 582,
                 "topics": [
                   "computer-vision",
                   "image-search",
@@ -5818,7 +6031,7 @@
                 "open_issues": 25,
                 "owner": "GuidoBartoli",
                 "repo": "sherloq",
-                "stars": 3249,
+                "stars": 3253,
                 "topics": [
                   "digital-image-forensics",
                   "forensic-image-analysis",
@@ -5846,7 +6059,7 @@
                 "open_issues": 91,
                 "owner": "getomni-ai",
                 "repo": "zerox",
-                "stars": 12253,
+                "stars": 12255,
                 "topics": [
                   "ocr",
                   "pdf"
@@ -6046,7 +6259,7 @@
                 "open_issues": 833,
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56892,
+                "stars": 56891,
                 "topics": [
                   "face-detection",
                   "face-recognition",
@@ -6167,7 +6380,7 @@
             "open_issues": 1,
             "owner": "gwen001",
             "repo": "github-search",
-            "stars": 1519,
+            "stars": 1520,
             "topics": [
               "bash",
               "bugbounty",
@@ -6219,11 +6432,11 @@
             "id": 41638869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T23:07:10Z",
+            "last_commit": "2026-11-11T18:06:04Z",
             "open_issues": 24,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3737,
+            "stars": 3738,
             "topics": [
               "api",
               "cats",
@@ -6282,7 +6495,7 @@
             "open_issues": 470,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97952,
+            "stars": 97958,
             "topics": [
               "python",
               "shell"
@@ -6306,7 +6519,7 @@
             "open_issues": 150,
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41854,
+            "stars": 41856,
             "topics": [
               "cheatsheet",
               "cli",
@@ -6334,11 +6547,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T05:40:09Z",
-            "open_issues": 297,
+            "last_commit": "2026-11-12T07:59:04Z",
+            "open_issues": 304,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 64192,
+            "stars": 64196,
             "topics": [
               "android",
               "bsd",
@@ -6402,11 +6615,11 @@
                 "id": 357241735,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T07:52:05Z",
-                "open_issues": 210,
+                "last_commit": "2026-11-12T08:24:35Z",
+                "open_issues": 206,
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 39440,
+                "stars": 39475,
                 "topics": [
                   "bing",
                   "brave",
@@ -6527,7 +6740,7 @@
                     "open_issues": 17,
                     "owner": "garywill",
                     "repo": "BigSearch",
-                    "stars": 273,
+                    "stars": 272,
                     "topics": [
                       "browser",
                       "browser-extension",
@@ -6773,7 +6986,7 @@
                     "open_issues": 37,
                     "owner": "infokiller",
                     "repo": "web-search-navigator",
-                    "stars": 960,
+                    "stars": 961,
                     "topics": [
                       "amazon-search",
                       "chrome-extension",
@@ -6813,7 +7026,7 @@
                     "open_issues": 0,
                     "owner": "TheSpeedX",
                     "repo": "SDorker",
-                    "stars": 151,
+                    "stars": 152,
                     "topics": [
                       "dorker",
                       "dorking",
@@ -6962,7 +7175,7 @@
               ],
               "description": "You also may interested Awesome IP Search Engines Github repo.",
               "node_type": "group",
-              "title": "IOT (ip search engines)"
+              "title": "IOT (IP search engines)"
             }
           ],
           "description": null,
@@ -6989,7 +7202,7 @@
                     "open_issues": 3,
                     "owner": "anmolksachan",
                     "repo": "TheTimeMachine",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": [
                       "automate",
                       "bugbounty",
@@ -7022,7 +7235,7 @@
                     "open_issues": 33,
                     "owner": "jsvine",
                     "repo": "waybackpack",
-                    "stars": 3242,
+                    "stars": 3241,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -7043,7 +7256,7 @@
                     "open_issues": 3,
                     "owner": "anmolksachan",
                     "repo": "TheTimeMachine",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": [
                       "automate",
                       "bugbounty",
@@ -7152,7 +7365,7 @@
                     "open_issues": 4,
                     "owner": "xnl-h4ck3r",
                     "repo": "waymore",
-                    "stars": 2791,
+                    "stars": 2793,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -7243,7 +7456,7 @@
                     "open_issues": 30,
                     "owner": "lc",
                     "repo": "gau",
-                    "stars": 5166,
+                    "stars": 5165,
                     "topics": [
                       "alienvault",
                       "gau",
@@ -7270,7 +7483,7 @@
                     "open_issues": 0,
                     "owner": "GeiserX",
                     "repo": "Wayback-Archive",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": [
                       "archive",
                       "archive-org",
@@ -7360,7 +7573,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-08T18:50:24Z",
-                    "open_issues": 15,
+                    "open_issues": 14,
                     "owner": "ruarxive",
                     "repo": "metawarc",
                     "stars": 38,
@@ -7488,7 +7701,7 @@
                     "open_issues": 7,
                     "owner": "Viralmaniar",
                     "repo": "Passhunt",
-                    "stars": 1311,
+                    "stars": 1310,
                     "topics": [
                       "cybersecurity",
                       "default-credentials",
@@ -7549,7 +7762,7 @@
                     "open_issues": 0,
                     "owner": "JoelGMSec",
                     "repo": "LeakSearch",
-                    "stars": 452,
+                    "stars": 453,
                     "topics": [
                       "credentials",
                       "database",
@@ -7672,7 +7885,7 @@
                     "open_issues": 0,
                     "owner": "sharsil",
                     "repo": "mailcat",
-                    "stars": 960,
+                    "stars": 962,
                     "topics": [
                       "cat",
                       "email",
@@ -7714,7 +7927,7 @@
                     "open_issues": 40,
                     "owner": "khast3x",
                     "repo": "h8mail",
-                    "stars": 5375,
+                    "stars": 5376,
                     "topics": [
                       "breach",
                       "breach-compilation",
@@ -7834,7 +8047,7 @@
                     "open_issues": 9,
                     "owner": "N0rz3",
                     "repo": "Zehef",
-                    "stars": 1097,
+                    "stars": 1100,
                     "topics": [
                       "account-checker",
                       "breach-check",
@@ -7937,7 +8150,7 @@
                     "open_issues": 10,
                     "owner": "thewhiteh4t",
                     "repo": "nexfil",
-                    "stars": 2645,
+                    "stars": 2647,
                     "topics": [
                       "cybersecurity",
                       "fast",
@@ -7995,7 +8208,7 @@
                     "open_issues": 0,
                     "owner": "arxhr007",
                     "repo": "Aliens_eye",
-                    "stars": 4808,
+                    "stars": 4813,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -8101,7 +8314,7 @@
                     "open_issues": 122,
                     "owner": "megadose",
                     "repo": "holehe",
-                    "stars": 15610,
+                    "stars": 15626,
                     "topics": [
                       "ebay",
                       "email",
@@ -8138,7 +8351,7 @@
                     "open_issues": 1,
                     "owner": "mishakorzik",
                     "repo": "UserFinder",
-                    "stars": 1388,
+                    "stars": 1390,
                     "topics": [
                       "allhackingtools",
                       "hacking",
@@ -8172,7 +8385,7 @@
                     "open_issues": 1,
                     "owner": "snooppr",
                     "repo": "snoop",
-                    "stars": 4065,
+                    "stars": 4064,
                     "topics": [
                       "blueteam",
                       "ctf",
@@ -8238,7 +8451,7 @@
                     "open_issues": 16,
                     "owner": "antoniaci",
                     "repo": "blackbird",
-                    "stars": 10087,
+                    "stars": 10120,
                     "topics": [
                       "cybersecurity",
                       "osint",
@@ -8325,9 +8538,9 @@
                     "description": "[PH0MBER]: An open source infomation grathering & reconnaissance framework!",
                     "homepage": "https://pypi.org/project/phomber/",
                     "id": 399737831,
-                    "language": "Python",
+                    "language": "TypeScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2023-11-13T03:19:43Z",
+                    "last_commit": "2026-11-12T00:50:20Z",
                     "open_issues": 11,
                     "owner": "s41r4j",
                     "repo": "phomber",
@@ -8425,7 +8638,7 @@
                     "open_issues": 15,
                     "owner": "N0rz3",
                     "repo": "Phunter",
-                    "stars": 1242,
+                    "stars": 1243,
                     "topics": [
                       "osint",
                       "osint-tool",
@@ -8560,7 +8773,7 @@
                     "open_issues": 26,
                     "owner": "qeeqbox",
                     "repo": "social-analyzer",
-                    "stars": 24531,
+                    "stars": 24541,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -8658,7 +8871,7 @@
                     "open_issues": 1,
                     "owner": "iperov",
                     "repo": "DeepFaceLive",
-                    "stars": 31018,
+                    "stars": 31019,
                     "topics": [
                       "deepfake",
                       "faceswap",
@@ -8715,10 +8928,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-11-10T22:06:02Z",
-                    "open_issues": 47,
+                    "open_issues": 51,
                     "owner": "joke2k",
                     "repo": "faker",
-                    "stars": 19489,
+                    "stars": 19490,
                     "topics": [
                       "dataset",
                       "fake",
@@ -8753,7 +8966,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-04-27T01:30:15Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "securisec",
                     "repo": "chepy",
                     "stars": 1060,
@@ -8806,7 +9019,7 @@
                     "open_issues": 1,
                     "owner": "alexandreborges",
                     "repo": "malwoverview",
-                    "stars": 4141,
+                    "stars": 4142,
                     "topics": [
                       "alienvault",
                       "cve",
@@ -8842,10 +9055,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-06T22:14:04Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "everywall",
                     "repo": "ladder",
-                    "stars": 9415,
+                    "stars": 9417,
                     "topics": [
                       "bypass",
                       "cors",
@@ -9159,10 +9372,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-11-03T08:45:53Z",
-                    "open_issues": 144,
+                    "open_issues": 143,
                     "owner": "quodlibet",
                     "repo": "mutagen",
-                    "stars": 1982,
+                    "stars": 1984,
                     "topics": [
                       "apev2",
                       "flac",
@@ -9228,7 +9441,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-17T23:37:28Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "facundoolano",
                     "repo": "google-play-scraper",
                     "stars": 3001,
@@ -9258,7 +9471,7 @@
                     "open_issues": 73,
                     "owner": "facundoolano",
                     "repo": "app-store-scraper",
-                    "stars": 1444,
+                    "stars": 1443,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -9384,7 +9597,7 @@
                     "open_issues": 44,
                     "owner": "Lucksi",
                     "repo": "Mr.Holmes",
-                    "stars": 4402,
+                    "stars": 4406,
                     "topics": [
                       "geolocation",
                       "information-gathering",
@@ -9479,7 +9692,7 @@
                     "open_issues": 1,
                     "owner": "C0MPL3XDEV",
                     "repo": "E4GL30S1NT",
-                    "stars": 708,
+                    "stars": 709,
                     "topics": [
                       "dorker",
                       "information-gathering",
@@ -9514,7 +9727,7 @@
                     "open_issues": 30,
                     "owner": "bhavsec",
                     "repo": "reconspider",
-                    "stars": 2864,
+                    "stars": 2865,
                     "topics": [
                       "automated",
                       "cybersecurity",
@@ -9570,7 +9783,7 @@
                     "open_issues": 2,
                     "owner": "termuxhackers-id",
                     "repo": "SIGIT",
-                    "stars": 995,
+                    "stars": 996,
                     "topics": [
                       "dns-checker",
                       "email-checker",
@@ -9606,7 +9819,7 @@
                     "open_issues": 1,
                     "owner": "saeeddhqan",
                     "repo": "Maryam",
-                    "stars": 1229,
+                    "stars": 1230,
                     "topics": [
                       "maryam",
                       "osint",
@@ -9667,7 +9880,7 @@
                     "open_issues": 2,
                     "owner": "j3ssie",
                     "repo": "metabigor",
-                    "stars": 1862,
+                    "stars": 1863,
                     "topics": [
                       "asn",
                       "bug-bounty",
@@ -9736,10 +9949,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-11T01:35:00Z",
-                    "open_issues": 77,
+                    "open_issues": 76,
                     "owner": "Te-k",
                     "repo": "harpoon",
-                    "stars": 1299,
+                    "stars": 1300,
                     "topics": [
                       "osint",
                       "osint-framework",
@@ -9873,7 +10086,7 @@
                     "open_issues": 0,
                     "owner": "ninoseki",
                     "repo": "mihari",
-                    "stars": 947,
+                    "stars": 948,
                     "topics": [
                       "osint",
                       "threat-hunting",
@@ -9939,7 +10152,7 @@
                     "open_issues": 52,
                     "owner": "KTZgraph",
                     "repo": "sarenka",
-                    "stars": 675,
+                    "stars": 676,
                     "topics": [
                       "censys-api",
                       "cve",
@@ -10129,7 +10342,7 @@
                     "open_issues": 53,
                     "owner": "devxprite",
                     "repo": "infoooze",
-                    "stars": 1157,
+                    "stars": 1158,
                     "topics": [
                       "contributions-welcome",
                       "cyber",
@@ -10186,11 +10399,11 @@
                     "id": 468957086,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-11T03:20:48Z",
+                    "last_commit": "2026-11-11T16:59:33Z",
                     "open_issues": 36,
                     "owner": "blacklanternsecurity",
                     "repo": "bbot",
-                    "stars": 11099,
+                    "stars": 11108,
                     "topics": [
                       "asm",
                       "attack-surface-management",
@@ -10232,7 +10445,7 @@
                     "open_issues": 17,
                     "owner": "theahmadov",
                     "repo": "slash",
-                    "stars": 764,
+                    "stars": 765,
                     "topics": [
                       "cyber-security",
                       "doxing",
@@ -10351,7 +10564,7 @@
                     "open_issues": 0,
                     "owner": "Yakitrak",
                     "repo": "notesmd-cli",
-                    "stars": 1606,
+                    "stars": 1607,
                     "topics": [
                       "bash",
                       "cli",
@@ -10567,10 +10780,10 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-06T18:23:30Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "cipher387",
                     "repo": "API-s-for-OSINT",
-                    "stars": 2651,
+                    "stars": 2652,
                     "topics": [
                       "api",
                       "api-rest",
@@ -10722,7 +10935,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:48:20.971Z",
+    "last_updated": "2026-11-12T08:25:08.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of several hundred online tools for OSINT",
@@ -10730,11 +10943,11 @@
       "id": 375081980,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-11-10T12:39:38Z",
-      "open_issues": 6,
+      "last_commit": "2026-11-12T08:16:12Z",
+      "open_issues": 2,
       "owner": "cipher387",
       "repo": "osint_stuff_tool_collection",
-      "stars": 9104,
+      "stars": 9114,
       "topics": [
         "awesome",
         "awesome-list",
@@ -10748,7 +10961,7 @@
         "toolset"
       ]
     },
-    "original_repository_sha": "2b19cff4d17e6694b661bfccdf9eda031080e42d",
+    "original_repository_sha": "067c496e62fec80aabdc0e8613cb715a9d63ccd6",
     "enhanced_repository": "enhansome/enhansome-osint_stuff_tool_collection",
     "enhanced_repository_description": null,
     "title": "Awesome Maps, Geolocation and Transport with stars"
