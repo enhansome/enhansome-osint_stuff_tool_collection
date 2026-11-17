@@ -66,7 +66,7 @@
                 "id": 1314845795,
                 "language": "HTML",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-16T07:45:10Z",
+                "last_commit": "2026-11-17T07:45:07Z",
                 "open_issues": 0,
                 "owner": "mcasrom",
                 "repo": "nearme-osint",
@@ -132,7 +132,7 @@
                 "open_issues": 6,
                 "owner": "GONZOsint",
                 "repo": "geowifi",
-                "stars": 1520,
+                "stars": 1522,
                 "topics": [
                   "geolocation",
                   "osint",
@@ -327,11 +327,11 @@
                 "id": 198357530,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-11-16T07:55:49Z",
-                "open_issues": 318,
+                "last_commit": "2026-11-17T07:52:46Z",
+                "open_issues": 307,
                 "owner": "insin",
                 "repo": "control-panel-for-twitter",
-                "stars": 2680,
+                "stars": 2686,
                 "topics": [
                   "chrome-extension",
                   "edge-extension",
@@ -398,7 +398,7 @@
                     "open_issues": 37,
                     "owner": "jdepoix",
                     "repo": "youtube-transcript-api",
-                    "stars": 8622,
+                    "stars": 8627,
                     "topics": [
                       "asr",
                       "captions",
@@ -465,7 +465,7 @@
                     "open_issues": 1,
                     "owner": "egbertbouman",
                     "repo": "youtube-comment-downloader",
-                    "stars": 1276,
+                    "stars": 1277,
                     "topics": [
                       "data-science",
                       "data-scraper",
@@ -661,7 +661,7 @@
                 "open_issues": 84,
                 "owner": "drawrowfly",
                 "repo": "tiktok-scraper",
-                "stars": 5261,
+                "stars": 5259,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -794,11 +794,11 @@
                 "id": 46398090,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T07:46:59Z",
-                "open_issues": 1430,
+                "last_commit": "2026-11-17T09:13:57Z",
+                "open_issues": 1456,
                 "owner": "datahub-project",
                 "repo": "datahub",
-                "stars": 12990,
+                "stars": 12993,
                 "topics": [
                   "agent-platform",
                   "context-management",
@@ -930,10 +930,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2024-07-12T17:50:12Z",
-                "open_issues": 458,
+                "open_issues": 459,
                 "owner": "TwitchRecover",
                 "repo": "TwitchRecover",
-                "stars": 1183,
+                "stars": 1182,
                 "topics": [
                   "downloading-vods",
                   "recover",
@@ -974,11 +974,11 @@
                 "id": 62743585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T21:51:20Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-16T23:36:02Z",
+                "open_issues": 94,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26846,
+                "stars": 26864,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -1115,7 +1115,7 @@
                 "open_issues": 4,
                 "owner": "bellingcat",
                 "repo": "instagram-location-search",
-                "stars": 741,
+                "stars": 742,
                 "topics": [
                   "command-line",
                   "instagram",
@@ -1240,7 +1240,7 @@
                 "open_issues": 65,
                 "owner": "instaloader",
                 "repo": "instaloader",
-                "stars": 13916,
+                "stars": 13924,
                 "topics": [
                   "downloader",
                   "instagram",
@@ -1284,7 +1284,7 @@
                 "open_issues": 78,
                 "owner": "mxrch",
                 "repo": "GHunt",
-                "stars": 19854,
+                "stars": 19858,
                 "topics": [
                   "google",
                   "hideandsec",
@@ -1376,7 +1376,7 @@
                 "open_issues": 4,
                 "owner": "s0md3v",
                 "repo": "Zen",
-                "stars": 604,
+                "stars": 603,
                 "topics": [
                   "github",
                   "github-recon",
@@ -1687,6 +1687,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SoundScrape",
+              "description": "Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SoundCloud (and Bandcamp and Mixcloud) downloader in Python. ",
+                "homepage": null,
+                "id": 15516057,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-06-23T16:29:11Z",
+                "open_issues": 71,
+                "owner": "Miserlou",
+                "repo": "SoundScrape",
+                "stars": 1447,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:57:48.367Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Soundcloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Gallery-dl",
               "description": "Quick and simple tool for downloading image galleries and collections from #flickr, #danbooru, #pixiv, #deviantart, #exhentai",
               "children": [],
@@ -1698,10 +1726,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-14T11:18:55Z",
-                "open_issues": 1047,
+                "open_issues": 1050,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 20528,
+                "stars": 20546,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1732,7 +1760,7 @@
                 "open_issues": 79,
                 "owner": "xenova",
                 "repo": "chat-downloader",
-                "stars": 1200,
+                "stars": 1199,
                 "topics": [
                   "chat",
                   "livestream",
@@ -1786,7 +1814,7 @@
                 "open_issues": 13,
                 "owner": "socai-io",
                 "repo": "jev-social",
-                "stars": 213,
+                "stars": 214,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1883,7 +1911,7 @@
                 "open_issues": 0,
                 "owner": "wkentaro",
                 "repo": "gdown",
-                "stars": 5489,
+                "stars": 5491,
                 "topics": [
                   "curl",
                   "download",
@@ -1932,7 +1960,7 @@
                 "open_issues": 79,
                 "owner": "xenova",
                 "repo": "chat-downloader",
-                "stars": 1200,
+                "stars": 1199,
                 "topics": [
                   "chat",
                   "livestream",
@@ -1957,10 +1985,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-14T11:18:55Z",
-                "open_issues": 1047,
+                "open_issues": 1050,
                 "owner": "mikf",
                 "repo": "gallery-dl",
-                "stars": 20528,
+                "stars": 20546,
                 "topics": [
                   "danbooru",
                   "deviantart",
@@ -1987,11 +2015,11 @@
                 "id": 62743585,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-13T21:51:20Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-16T23:36:02Z",
+                "open_issues": 94,
                 "owner": "spotDL",
                 "repo": "spotify-downloader",
-                "stars": 26846,
+                "stars": 26864,
                 "topics": [
                   "download-music",
                   "hacktoberfest",
@@ -2025,7 +2053,7 @@
                 "open_issues": 84,
                 "owner": "drawrowfly",
                 "repo": "tiktok-scraper",
-                "stars": 5261,
+                "stars": 5259,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2046,7 +2074,7 @@
                 "open_issues": 1,
                 "owner": "egbertbouman",
                 "repo": "youtube-comment-downloader",
-                "stars": 1276,
+                "stars": 1277,
                 "topics": [
                   "data-science",
                   "data-scraper",
@@ -2073,7 +2101,7 @@
                 "open_issues": 0,
                 "owner": "wkentaro",
                 "repo": "gdown",
-                "stars": 5489,
+                "stars": 5491,
                 "topics": [
                   "curl",
                   "download",
@@ -2124,31 +2152,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-15T17:47:42Z",
-                "open_issues": 383,
+                "open_issues": 382,
                 "owner": "soimort",
                 "repo": "you-get",
-                "stars": 56848,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SoundScrape",
-              "description": "Download tracks and playlists from SoundCloud, Bandcamp, MixCloud, Audiomack, Hive com.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SoundCloud (and Bandcamp and Mixcloud) downloader in Python. ",
-                "homepage": null,
-                "id": 15516057,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-06-23T16:29:11Z",
-                "open_issues": 71,
-                "owner": "Miserlou",
-                "repo": "SoundScrape",
-                "stars": 1447,
+                "stars": 56845,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -2194,7 +2201,7 @@
                 "open_issues": 79,
                 "owner": "xenova",
                 "repo": "chat-downloader",
-                "stars": 1200,
+                "stars": 1199,
                 "topics": [
                   "chat",
                   "livestream",
@@ -2276,11 +2283,11 @@
                     "id": 951958279,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T18:52:45Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-11-17T08:40:39Z",
+                    "open_issues": 42,
                     "owner": "chigwell",
                     "repo": "telegram-mcp",
-                    "stars": 2047,
+                    "stars": 2051,
                     "topics": [
                       "admin",
                       "api",
@@ -2315,7 +2322,7 @@
                     "open_issues": 5,
                     "owner": "soxoj",
                     "repo": "telegram-bot-dumper",
-                    "stars": 430,
+                    "stars": 429,
                     "topics": [
                       "bot-osint",
                       "chat-history",
@@ -2523,7 +2530,7 @@
                     "open_issues": 4,
                     "owner": "estebanpdl",
                     "repo": "telegram-tracker",
-                    "stars": 389,
+                    "stars": 387,
                     "topics": [
                       "command-line-tool",
                       "data-collection",
@@ -2553,7 +2560,7 @@
                     "open_issues": 6,
                     "owner": "sockysec",
                     "repo": "Telerecon",
-                    "stars": 1338,
+                    "stars": 1337,
                     "topics": []
                   },
                   "first_seen": "2026-11-12T08:25:08.721Z"
@@ -2574,7 +2581,7 @@
                     "open_issues": 1,
                     "owner": "hamodywe",
                     "repo": "telegram-scraper-TeleGraphite",
-                    "stars": 291,
+                    "stars": 292,
                     "topics": [
                       "chanels",
                       "telegram",
@@ -2598,11 +2605,11 @@
                     "id": 150257402,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-12T22:40:51Z",
+                    "last_commit": "2026-11-16T16:57:44Z",
                     "open_issues": 78,
                     "owner": "digitalmethodsinitiative",
                     "repo": "4cat",
-                    "stars": 429,
+                    "stars": 430,
                     "topics": [
                       "digitalmethods",
                       "python",
@@ -2629,7 +2636,7 @@
                     "open_issues": 27,
                     "owner": "Dineshkarthik",
                     "repo": "telegram_media_downloader",
-                    "stars": 2762,
+                    "stars": 2764,
                     "topics": [
                       "archiving-media",
                       "media-downloader",
@@ -2684,8 +2691,8 @@
                     "id": 929338255,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-09T17:56:05Z",
-                    "open_issues": 10,
+                    "last_commit": "2026-11-16T21:28:37Z",
+                    "open_issues": 11,
                     "owner": "groupultra",
                     "repo": "telegram-search",
                     "stars": 4153,
@@ -2740,11 +2747,11 @@
                     "id": 1438904818,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T07:03:03Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-16T20:35:15Z",
+                    "open_issues": 0,
                     "owner": "phishdestroy",
                     "repo": "TgWitness",
-                    "stars": 168,
+                    "stars": 169,
                     "topics": [
                       "chain-of-custody",
                       "chat-export",
@@ -2865,11 +2872,11 @@
                 "id": 140457254,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T07:26:02Z",
+                "last_commit": "2026-11-17T07:32:35Z",
                 "open_issues": 255,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15524,
+                "stars": 15527,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -2996,7 +3003,7 @@
                 "open_issues": 6,
                 "owner": "IvanGlinkin",
                 "repo": "Fast-Google-Dorks-Scan",
-                "stars": 1746,
+                "stars": 1745,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3052,7 +3059,7 @@
                 "open_issues": 5,
                 "owner": "six2dez",
                 "repo": "reconftw",
-                "stars": 8378,
+                "stars": 8382,
                 "topics": [
                   "bug-bounty",
                   "bugbounty",
@@ -3240,7 +3247,7 @@
                 "open_issues": 14,
                 "owner": "GhostTroops",
                 "repo": "scan4all",
-                "stars": 6197,
+                "stars": 6196,
                 "topics": [
                   "0day",
                   "attack",
@@ -3428,7 +3435,7 @@
                 "open_issues": 4,
                 "owner": "Drew-Alleman",
                 "repo": "DataSurgeon",
-                "stars": 912,
+                "stars": 913,
                 "topics": [
                   "bug-bounty",
                   "ctf-tools",
@@ -3604,8 +3611,8 @@
                 "id": 165313961,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T06:59:00Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-16T20:25:07Z",
+                "open_issues": 207,
                 "owner": "ossf",
                 "repo": "cve-bin-tool",
                 "stars": 1811,
@@ -3640,11 +3647,11 @@
                 "id": 699502691,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T15:06:13Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-16T13:42:29Z",
+                "open_issues": 6,
                 "owner": "projectdiscovery",
                 "repo": "vulnx",
-                "stars": 2746,
+                "stars": 2747,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -3758,7 +3765,7 @@
                 "open_issues": 10,
                 "owner": "dmdhrumilmistry",
                 "repo": "pyhtools",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "apihacking",
                   "dmdhrumilmistry",
@@ -3802,7 +3809,7 @@
                 "open_issues": 10,
                 "owner": "ndelphit",
                 "repo": "apkurlgrep",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "apk",
                   "endpoints",
@@ -3965,7 +3972,7 @@
                 "open_issues": 13,
                 "owner": "jhy",
                 "repo": "jsoup",
-                "stars": 11417,
+                "stars": 11418,
                 "topics": [
                   "css",
                   "css-selectors",
@@ -3998,7 +4005,7 @@
                 "open_issues": 3,
                 "owner": "tdh8316",
                 "repo": "Investigo",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "cli",
                   "go",
@@ -4184,7 +4191,7 @@
                 "open_issues": 49,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15608,
+                "stars": 15609,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -4263,7 +4270,7 @@
                 "open_issues": 0,
                 "owner": "loseys",
                 "repo": "Goblyn",
-                "stars": 77,
+                "stars": 78,
                 "topics": [
                   "blueteam",
                   "cybersecurity",
@@ -4380,7 +4387,7 @@
                 "id": 69747106,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-14T13:08:33Z",
+                "last_commit": "2026-11-16T10:13:11Z",
                 "open_issues": 7,
                 "owner": "vstinner",
                 "repo": "hachoir",
@@ -4451,7 +4458,7 @@
                 "open_issues": 9,
                 "owner": "BishopFox",
                 "repo": "jsluice",
-                "stars": 1975,
+                "stars": 1977,
                 "topics": [
                   "javascript",
                   "security"
@@ -4503,7 +4510,7 @@
                 "open_issues": 5,
                 "owner": "devanshbatham",
                 "repo": "FavFreak",
-                "stars": 1320,
+                "stars": 1319,
                 "topics": [
                   "bugbounty",
                   "bughunting",
@@ -4784,7 +4791,7 @@
                 "open_issues": 0,
                 "owner": "Spix0r",
                 "repo": "robofinder",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "bugbounty",
                   "bugbounty-tool",
@@ -4959,7 +4966,7 @@
                 "open_issues": 21,
                 "owner": "elceef",
                 "repo": "dnstwist",
-                "stars": 5784,
+                "stars": 5785,
                 "topics": [
                   "dns",
                   "domains",
@@ -5526,7 +5533,7 @@
                 "open_issues": 16,
                 "owner": "lijiejie",
                 "repo": "subDomainsBrute",
-                "stars": 3619,
+                "stars": 3620,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5676,7 +5683,7 @@
                 "open_issues": 34,
                 "owner": "punk-security",
                 "repo": "dnsReaper",
-                "stars": 2228,
+                "stars": 2229,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5693,7 +5700,7 @@
                 "id": 616826955,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-10T19:37:29Z",
+                "last_commit": "2026-11-16T14:53:32Z",
                 "open_issues": 3,
                 "owner": "projectdiscovery",
                 "repo": "alterx",
@@ -5908,11 +5915,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T11:20:02Z",
-                "open_issues": 96,
+                "last_commit": "2026-11-17T01:28:22Z",
+                "open_issues": 98,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22921,
+                "stars": 22929,
                 "topics": [
                   "annotations",
                   "archive",
@@ -5973,7 +5980,7 @@
                 "open_issues": 48,
                 "owner": "m4ll0k",
                 "repo": "SecretFinder",
-                "stars": 2544,
+                "stars": 2546,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:57:48.367Z"
@@ -5994,7 +6001,7 @@
                 "open_issues": 53,
                 "owner": "GerbenJavado",
                 "repo": "LinkFinder",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "endpoints",
                   "infosec"
@@ -6058,10 +6065,10 @@
                 "language": "TypeScript",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-14T02:45:16Z",
-                "open_issues": 176,
+                "open_issues": 177,
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 46072,
+                "stars": 46118,
                 "topics": [
                   "codec",
                   "cut",
@@ -6091,188 +6098,253 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "GORIS",
-              "description": "Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is a CLI tool to search for images with Google Reverse Image Search (goris).",
-                "homepage": null,
-                "id": 89452596,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-07-07T01:45:08Z",
-                "open_issues": 5,
-                "owner": "tanaikech",
-                "repo": "goris",
-                "stars": 125,
-                "topics": [
-                  "cli",
-                  "cli-app",
-                  "cli-tool",
-                  "golang",
-                  "google-image-search",
-                  "reverse-image-search"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ">_ GORIS",
+                  "description": "Command line tool for Google reverse image search automation. It can find links to similar pictures by URL or by file.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This is a CLI tool to search for images with Google Reverse Image Search (goris).",
+                    "homepage": null,
+                    "id": 89452596,
+                    "language": "Go",
+                    "license": "MIT",
+                    "last_commit": "2026-07-07T01:45:08Z",
+                    "open_issues": 5,
+                    "owner": "tanaikech",
+                    "repo": "goris",
+                    "stars": 125,
+                    "topics": [
+                      "cli",
+                      "cli-app",
+                      "cli-tool",
+                      "golang",
+                      "google-image-search",
+                      "reverse-image-search"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ LingoLens",
+                  "description": "Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Search in Google Lens in lingo! Multi language search of image with export in HTML report",
+                    "homepage": "https://forum.osint-mindset.com",
+                    "id": 612005876,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2026-05-29T11:31:37Z",
+                    "open_issues": 0,
+                    "owner": "OSINT-mindset",
+                    "repo": "lingolens",
+                    "stars": 88,
+                    "topics": [
+                      "geoint",
+                      "geolocation",
+                      "geolocation-osint",
+                      "google-lens",
+                      "image-osint",
+                      "imint",
+                      "osint",
+                      "osint-python",
+                      "osint-tool",
+                      "reverse-image-search",
+                      "visual-search"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T12:57:48.367Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Search by Image",
+                  "description": "A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Browser extension for reverse image search, available for Chrome, Edge and Safari",
+                    "homepage": "https://apps.apple.com/us/app/search-by-image-for-safari/id1544552106",
+                    "id": 94629944,
+                    "language": "JavaScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-06-27T11:49:36Z",
+                    "open_issues": 79,
+                    "owner": "dessant",
+                    "repo": "search-by-image",
+                    "stars": 3826,
+                    "topics": [
+                      "browser-extension",
+                      "chrome-extension",
+                      "firefox-extension",
+                      "google",
+                      "image",
+                      "image-search",
+                      "reverse-image-search",
+                      "safari-extension",
+                      "search",
+                      "yandex"
+                    ]
+                  },
+                  "first_seen": "2026-10-30T07:16:20.398Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ MEMERY",
+                  "description": "Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Search over large image datasets with natural language and computer vision",
+                    "homepage": "https://deepfates.com/memery",
+                    "id": 347659727,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-07-23T19:42:16Z",
+                    "open_issues": 13,
+                    "owner": "deepfates",
+                    "repo": "memery",
+                    "stars": 582,
+                    "topics": [
+                      "computer-vision",
+                      "image-search",
+                      "local-search",
+                      "natural-language",
+                      "python"
+                    ]
+                  },
+                  "first_seen": "2026-11-11T07:48:20.971Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": ">_ Bulk Bing Image Downloader",
+                  "description": "A simple and fast tool to automate loading images from Bing Images search results (limit 5 is used for the example, but larger limits can be used).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Download full sized images returned from bing image search",
+                    "homepage": null,
+                    "id": 20578339,
+                    "language": "Python",
+                    "license": "GPL-2.0",
+                    "last_commit": "2022-07-06T21:33:36Z",
+                    "open_issues": 1,
+                    "owner": "ostrolucky",
+                    "repo": "Bulk-Bing-Image-downloader",
+                    "stars": 375,
+                    "topics": [
+                      "bing",
+                      "download",
+                      "images"
+                    ]
+                  },
+                  "first_seen": "2026-11-17T09:18:15.755Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools"
             },
             {
-              "node_type": "item",
-              "title": "LingoLens",
-              "description": "Simple based on Streamlit self-hosted web app to automate the download of Google Lens results for different languages and countries (results may vary greatly depending on location settings).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Search in Google Lens in lingo! Multi language search of image with export in HTML report",
-                "homepage": "https://forum.osint-mindset.com",
-                "id": 612005876,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-05-29T11:31:37Z",
-                "open_issues": 0,
-                "owner": "OSINT-mindset",
-                "repo": "lingolens",
-                "stars": 88,
-                "topics": [
-                  "geoint",
-                  "geolocation",
-                  "geolocation-osint",
-                  "google-lens",
-                  "image-osint",
-                  "imint",
-                  "osint",
-                  "osint-python",
-                  "osint-tool",
-                  "reverse-image-search",
-                  "visual-search"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Search by Image",
-              "description": "A browser extension for Chrome, Edge, and Safari that lets you search using a screen capture, image URL, or file across 45 reverse image search engines.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Browser extension for reverse image search, available for Chrome, Edge and Safari",
-                "homepage": "https://apps.apple.com/us/app/search-by-image-for-safari/id1544552106",
-                "id": 94629944,
-                "language": "JavaScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-06-27T11:49:36Z",
-                "open_issues": 79,
-                "owner": "dessant",
-                "repo": "search-by-image",
-                "stars": 3826,
-                "topics": [
-                  "browser-extension",
-                  "chrome-extension",
-                  "firefox-extension",
-                  "google",
-                  "image",
-                  "image-search",
-                  "reverse-image-search",
-                  "safari-extension",
-                  "search",
-                  "yandex"
-                ]
-              },
-              "first_seen": "2026-10-30T07:16:20.398Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MEMERY",
-              "description": "Very easy to install and use #python tool (with GUI) for text search of images in a local directory on your computer or server.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Search over large image datasets with natural language and computer vision",
-                "homepage": "https://deepfates.com/memery",
-                "id": 347659727,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-23T19:42:16Z",
-                "open_issues": 13,
-                "owner": "deepfates",
-                "repo": "memery",
-                "stars": 582,
-                "topics": [
-                  "computer-vision",
-                  "image-search",
-                  "local-search",
-                  "natural-language",
-                  "python"
-                ]
-              },
-              "first_seen": "2026-11-11T07:48:20.971Z"
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ">_ MEMERY",
+                  "description": "Search over large image datasets with natural language and computer vision.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Search over large image datasets with natural language and computer vision",
+                    "homepage": "https://deepfates.com/memery",
+                    "id": 347659727,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-07-23T19:42:16Z",
+                    "open_issues": 13,
+                    "owner": "deepfates",
+                    "repo": "memery",
+                    "stars": 582,
+                    "topics": [
+                      "computer-vision",
+                      "image-search",
+                      "local-search",
+                      "natural-language",
+                      "python"
+                    ]
+                  },
+                  "first_seen": "2026-11-11T07:48:20.971Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Local image search"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Reverse Image Search Engines and automation tools"
+          "title": "News/fact checking"
+        }
+      ],
+      "title": "Image Search"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sherloq",
+          "description": "open source image #forensic toolset made by profesional photograph Guido Bartoli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open-source digital image forensic toolset",
+            "homepage": null,
+            "id": 95291041,
+            "language": "Perl",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-16T11:39:56Z",
+            "open_issues": 25,
+            "owner": "GuidoBartoli",
+            "repo": "sherloq",
+            "stars": 3264,
+            "topics": [
+              "digital-image-forensics",
+              "forensic-image-analysis",
+              "gui",
+              "image-forensics",
+              "image-processing",
+              "toolkit"
+            ]
+          },
+          "first_seen": "2026-08-28T12:57:48.367Z"
         },
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Sherloq",
-              "description": "open source image #forensic toolset made by profesional photograph Guido Bartoli",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An open-source digital image forensic toolset",
-                "homepage": null,
-                "id": 95291041,
-                "language": "Perl",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-16T11:39:56Z",
-                "open_issues": 25,
-                "owner": "GuidoBartoli",
-                "repo": "sherloq",
-                "stars": 3262,
-                "topics": [
-                  "digital-image-forensics",
-                  "forensic-image-analysis",
-                  "gui",
-                  "image-forensics",
-                  "image-processing",
-                  "toolkit"
-                ]
-              },
-              "first_seen": "2026-08-28T12:57:48.367Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ZEROX OCR",
-              "description": "A quality open source text recognition tool that works very well with complex infographics.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "OCR & Document Extraction using vision models",
-                "homepage": "https://getomni.ai/ocr-demo",
-                "id": 831872524,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2025-05-20T00:39:18Z",
-                "open_issues": 91,
-                "owner": "getomni-ai",
-                "repo": "zerox",
-                "stars": 12250,
-                "topics": [
-                  "ocr",
-                  "pdf"
-                ]
-              },
-              "first_seen": "2026-11-11T07:48:20.971Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Image Analyze"
+          "node_type": "item",
+          "title": "ZEROX OCR",
+          "description": "A quality open source text recognition tool that works very well with complex infographics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OCR & Document Extraction using vision models",
+            "homepage": "https://getomni.ai/ocr-demo",
+            "id": 831872524,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2025-05-20T00:39:18Z",
+            "open_issues": 91,
+            "owner": "getomni-ai",
+            "repo": "zerox",
+            "stars": 12248,
+            "topics": [
+              "ocr",
+              "pdf"
+            ]
+          },
+          "first_seen": "2026-11-11T07:48:20.971Z"
         },
         {
           "children": [
@@ -6461,7 +6533,7 @@
                 "open_issues": 833,
                 "owner": "ageitgey",
                 "repo": "face_recognition",
-                "stars": 56901,
+                "stars": 56903,
                 "topics": [
                   "face-detection",
                   "face-recognition",
@@ -6474,10 +6546,10 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "Face recognition and search"
+          "title": "Face recognition and detection"
         }
       ],
-      "title": "Image Search and Identification"
+      "title": "Image Analyze"
     },
     {
       "description": null,
@@ -6522,7 +6594,7 @@
             "open_issues": 0,
             "owner": "champmq",
             "repo": "TheScrapper",
-            "stars": 383,
+            "stars": 381,
             "topics": [
               "contact",
               "contact-finder",
@@ -6634,8 +6706,8 @@
             "id": 41638869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T18:06:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-17T04:12:54Z",
+            "open_issues": 25,
             "owner": "httpcats",
             "repo": "http.cat",
             "stars": 3743,
@@ -6694,10 +6766,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-07-19T14:56:13Z",
-            "open_issues": 470,
+            "open_issues": 471,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97960,
+            "stars": 97957,
             "topics": [
               "python",
               "shell"
@@ -6749,11 +6821,11 @@
             "id": 15019962,
             "language": "Markdown",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T08:02:12Z",
-            "open_issues": 303,
+            "last_commit": "2026-11-17T09:04:12Z",
+            "open_issues": 276,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 64222,
+            "stars": 64227,
             "topics": [
               "android",
               "bsd",
@@ -6817,11 +6889,11 @@
                 "id": 357241735,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-15T08:42:28Z",
-                "open_issues": 210,
+                "last_commit": "2026-11-17T03:19:50Z",
+                "open_issues": 212,
                 "owner": "searxng",
                 "repo": "searxng",
-                "stars": 39590,
+                "stars": 39624,
                 "topics": [
                   "bing",
                   "brave",
@@ -6860,7 +6932,7 @@
                     "open_issues": 0,
                     "owner": "zquestz",
                     "repo": "s",
-                    "stars": 2618,
+                    "stars": 2619,
                     "topics": [
                       "golang",
                       "search",
@@ -7017,6 +7089,27 @@
                     },
                     {
                       "node_type": "item",
+                      "title": "OpenTor",
+                      "description": "Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Search 12 dark web engines, spider .onion sites, extract IOCs.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Search 12 dark web engines, spider .onion sites, extract IOCs. Orchestrator-conductor architecture — zero external LLM deps.",
+                        "homepage": null,
+                        "id": 1226458391,
+                        "language": "Python",
+                        "license": "NOASSERTION",
+                        "last_commit": "2026-05-01T13:28:28Z",
+                        "open_issues": 6,
+                        "owner": "vichhka-git",
+                        "repo": "OpenTor",
+                        "stars": 139,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-17T09:18:15.755Z"
+                    },
+                    {
+                      "node_type": "item",
                       "title": "TorBot",
                       "description": "Open Source Intelligence Tool for the Dark Web.",
                       "children": [],
@@ -7031,7 +7124,7 @@
                         "open_issues": 7,
                         "owner": "DedSecInside",
                         "repo": "TorBot",
-                        "stars": 5210,
+                        "stars": 5212,
                         "topics": [
                           "algorithm",
                           "crawler",
@@ -7138,7 +7231,7 @@
                         "open_issues": 1,
                         "owner": "Lucksi",
                         "repo": "Darkus",
-                        "stars": 725,
+                        "stars": 726,
                         "topics": [
                           "darkweb",
                           "deepweb",
@@ -7360,7 +7453,7 @@
                     "id": 98684875,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-16T03:18:24Z",
+                    "last_commit": "2026-11-17T03:13:18Z",
                     "open_issues": 37,
                     "owner": "infokiller",
                     "repo": "web-search-navigator",
@@ -7722,7 +7815,7 @@
                     "open_issues": 51,
                     "owner": "MiniGlome",
                     "repo": "Archive.org-Downloader",
-                    "stars": 1384,
+                    "stars": 1385,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -7806,7 +7899,7 @@
                     "open_issues": 5,
                     "owner": "bellingcat",
                     "repo": "wayback-google-analytics",
-                    "stars": 242,
+                    "stars": 243,
                     "topics": [
                       "command-line",
                       "google-analytics",
@@ -7834,7 +7927,7 @@
                     "open_issues": 30,
                     "owner": "lc",
                     "repo": "gau",
-                    "stars": 5176,
+                    "stars": 5178,
                     "topics": [
                       "alienvault",
                       "gau",
@@ -7861,7 +7954,7 @@
                     "open_issues": 0,
                     "owner": "GeiserX",
                     "repo": "Wayback-Archive",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "archive",
                       "archive-org",
@@ -8263,7 +8356,7 @@
                     "open_issues": 2,
                     "owner": "sharsil",
                     "repo": "mailcat",
-                    "stars": 964,
+                    "stars": 965,
                     "topics": [
                       "cat",
                       "email",
@@ -8305,7 +8398,7 @@
                     "open_issues": 40,
                     "owner": "khast3x",
                     "repo": "h8mail",
-                    "stars": 5385,
+                    "stars": 5388,
                     "topics": [
                       "breach",
                       "breach-compilation",
@@ -8425,7 +8518,7 @@
                     "open_issues": 9,
                     "owner": "N0rz3",
                     "repo": "Zehef",
-                    "stars": 1101,
+                    "stars": 1102,
                     "topics": [
                       "account-checker",
                       "breach-check",
@@ -8528,7 +8621,7 @@
                     "open_issues": 10,
                     "owner": "thewhiteh4t",
                     "repo": "nexfil",
-                    "stars": 2648,
+                    "stars": 2650,
                     "topics": [
                       "cybersecurity",
                       "fast",
@@ -8586,7 +8679,7 @@
                     "open_issues": 0,
                     "owner": "arxhr007",
                     "repo": "Aliens_eye",
-                    "stars": 4831,
+                    "stars": 4834,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -8627,7 +8720,7 @@
                     "open_issues": 0,
                     "owner": "ritchiemwewa",
                     "repo": "thorndyke",
-                    "stars": 44,
+                    "stars": 45,
                     "topics": [
                       "enumeration",
                       "osint",
@@ -8692,7 +8785,7 @@
                     "open_issues": 123,
                     "owner": "megadose",
                     "repo": "holehe",
-                    "stars": 15675,
+                    "stars": 15686,
                     "topics": [
                       "ebay",
                       "email",
@@ -8759,7 +8852,7 @@
                     "id": 240491830,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-16T06:47:02Z",
+                    "last_commit": "2026-11-17T07:56:06Z",
                     "open_issues": 1,
                     "owner": "snooppr",
                     "repo": "snoop",
@@ -8829,7 +8922,7 @@
                     "open_issues": 16,
                     "owner": "antoniaci",
                     "repo": "blackbird",
-                    "stars": 10179,
+                    "stars": 10190,
                     "topics": [
                       "cybersecurity",
                       "osint",
@@ -8883,7 +8976,7 @@
                     "open_issues": 9,
                     "owner": "t3l3machus",
                     "repo": "psudohash",
-                    "stars": 1475,
+                    "stars": 1476,
                     "topics": [
                       "brute-force-attacks",
                       "bruteforce",
@@ -8922,7 +9015,7 @@
                     "open_issues": 11,
                     "owner": "s41r4j",
                     "repo": "phomber",
-                    "stars": 628,
+                    "stars": 629,
                     "topics": [
                       "cli",
                       "cybersecurity",
@@ -8995,7 +9088,7 @@
                     "open_issues": 15,
                     "owner": "spider863644",
                     "repo": "PhoneNumber-OSINT",
-                    "stars": 912,
+                    "stars": 913,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -9016,7 +9109,7 @@
                     "open_issues": 15,
                     "owner": "N0rz3",
                     "repo": "Phunter",
-                    "stars": 1252,
+                    "stars": 1254,
                     "topics": [
                       "osint",
                       "osint-tool",
@@ -9151,7 +9244,7 @@
                     "open_issues": 26,
                     "owner": "qeeqbox",
                     "repo": "social-analyzer",
-                    "stars": 24564,
+                    "stars": 24575,
                     "topics": [
                       "analysis",
                       "analyzer",
@@ -9249,7 +9342,7 @@
                     "open_issues": 1,
                     "owner": "iperov",
                     "repo": "DeepFaceLive",
-                    "stars": 31020,
+                    "stars": 31021,
                     "topics": [
                       "deepfake",
                       "faceswap",
@@ -9347,7 +9440,7 @@
                     "open_issues": 0,
                     "owner": "securisec",
                     "repo": "chepy",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": [
                       "cli",
                       "cyber",
@@ -9433,10 +9526,10 @@
                     "language": "Go",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-13T22:14:23Z",
-                    "open_issues": 40,
+                    "open_issues": 41,
                     "owner": "everywall",
                     "repo": "ladder",
-                    "stars": 9435,
+                    "stars": 9439,
                     "topics": [
                       "bypass",
                       "cors",
@@ -9565,10 +9658,10 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-08T10:10:30Z",
-                    "open_issues": 445,
+                    "open_issues": 444,
                     "owner": "gephi",
                     "repo": "gephi",
-                    "stars": 6703,
+                    "stars": 6702,
                     "topics": [
                       "graph",
                       "graph-analytics",
@@ -9711,7 +9804,7 @@
                     "open_issues": 2,
                     "owner": "mnismt",
                     "repo": "CompressedCrack",
-                    "stars": 304,
+                    "stars": 305,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -9750,10 +9843,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-11-03T08:45:53Z",
-                    "open_issues": 148,
+                    "open_issues": 149,
                     "owner": "quodlibet",
                     "repo": "mutagen",
-                    "stars": 1986,
+                    "stars": 1987,
                     "topics": [
                       "apev2",
                       "flac",
@@ -9822,7 +9915,7 @@
                     "open_issues": 8,
                     "owner": "facundoolano",
                     "repo": "google-play-scraper",
-                    "stars": 3004,
+                    "stars": 3006,
                     "topics": [
                       "api",
                       "crawler",
@@ -9972,10 +10065,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-02-21T11:15:55Z",
-                    "open_issues": 44,
+                    "open_issues": 46,
                     "owner": "Lucksi",
                     "repo": "Mr.Holmes",
-                    "stars": 4423,
+                    "stars": 4424,
                     "topics": [
                       "geolocation",
                       "information-gathering",
@@ -10070,7 +10163,7 @@
                     "open_issues": 1,
                     "owner": "C0MPL3XDEV",
                     "repo": "E4GL30S1NT",
-                    "stars": 710,
+                    "stars": 713,
                     "topics": [
                       "dorker",
                       "information-gathering",
@@ -10140,7 +10233,7 @@
                     "open_issues": 1,
                     "owner": "nodauf",
                     "repo": "GoMapEnum",
-                    "stars": 498,
+                    "stars": 499,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:57:48.367Z"
@@ -10161,7 +10254,7 @@
                     "open_issues": 2,
                     "owner": "termuxhackers-id",
                     "repo": "SIGIT",
-                    "stars": 1002,
+                    "stars": 1003,
                     "topics": [
                       "dns-checker",
                       "email-checker",
@@ -10258,7 +10351,7 @@
                     "open_issues": 2,
                     "owner": "j3ssie",
                     "repo": "metabigor",
-                    "stars": 1870,
+                    "stars": 1871,
                     "topics": [
                       "asn",
                       "bug-bounty",
@@ -10296,7 +10389,7 @@
                     "open_issues": 1,
                     "owner": "leebaird",
                     "repo": "discover",
-                    "stars": 3948,
+                    "stars": 3949,
                     "topics": [
                       "bash",
                       "enumeration",
@@ -10330,7 +10423,7 @@
                     "open_issues": 76,
                     "owner": "Te-k",
                     "repo": "harpoon",
-                    "stars": 1300,
+                    "stars": 1299,
                     "topics": [
                       "osint",
                       "osint-framework",
@@ -10608,11 +10701,11 @@
                     "id": 23961941,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-14T03:54:06Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-11-16T22:37:31Z",
+                    "open_issues": 57,
                     "owner": "ivre",
                     "repo": "ivre",
-                    "stars": 4211,
+                    "stars": 4214,
                     "topics": [
                       "bro",
                       "easm",
@@ -10777,11 +10870,11 @@
                     "id": 468957086,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-16T00:59:03Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-11-17T02:35:52Z",
+                    "open_issues": 41,
                     "owner": "blacklanternsecurity",
                     "repo": "bbot",
-                    "stars": 11134,
+                    "stars": 11141,
                     "topics": [
                       "asm",
                       "attack-surface-management",
@@ -11158,7 +11251,7 @@
                     "language": null,
                     "license": "CC0-1.0",
                     "last_commit": "2026-11-15T10:20:14Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "cipher387",
                     "repo": "API-s-for-OSINT",
                     "stars": 2660,
@@ -11313,7 +11406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:03:49.597Z",
+    "last_updated": "2026-11-17T09:18:15.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of several hundred online tools for OSINT",
@@ -11321,11 +11414,11 @@
       "id": 375081980,
       "language": null,
       "license": "GPL-3.0",
-      "last_commit": "2026-11-15T10:15:07Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-16T11:23:52Z",
+      "open_issues": 6,
       "owner": "cipher387",
       "repo": "osint_stuff_tool_collection",
-      "stars": 9200,
+      "stars": 9206,
       "topics": [
         "awesome",
         "awesome-list",
@@ -11339,7 +11432,7 @@
         "toolset"
       ]
     },
-    "original_repository_sha": "8d9e0ddfa702afebaba6f6f4d07fda401d19b933",
+    "original_repository_sha": "a466f547e95ab90b5d77b348b9c1fde8ca400f02",
     "enhanced_repository": "enhansome/enhansome-osint_stuff_tool_collection",
     "enhanced_repository_description": null,
     "title": "Awesome Maps, Geolocation and Transport with stars"
